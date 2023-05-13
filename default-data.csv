@@ -1,0 +1,2380 @@
+time,latitude,longitude,mag,place,type,satellite
+2022-03-23,41.1617,43.9674,4,"22 km WSW of Metsavan, Armenia",earthquake,null
+2021-12-05,38.8916,43.4846,4.9,"18 km SE of Erci?, Turkey",earthquake,null
+2021-10-24,41.105,44.0514,4.1,"18 km SW of Metsavan, Armenia",earthquake,null
+2021-10-20,38.6076,43.3512,4.4,"12 km NNW of Van, Turkey",earthquake,null
+2021-10-20,38.6719,43.0894,4.2,"31 km NNW of Edremit, Turkey",earthquake,null
+2021-10-10,38.6105,43.1477,4.4,"23 km NNW of Edremit, Turkey",earthquake,null
+2021-08-20,38.5978,44.2294,4,"21 km ESE of Özalp, Turkey",earthquake,null
+2021-08-16,41.1691,43.9722,4.8,"21 km W of Metsavan, Armenia",earthquake,null
+2021-08-15,41.1211,44.12,4.1,"12 km SW of Metsavan, Armenia",earthquake,null
+2021-06-22,38.9298,44.5543,4.2,"41 km W of Qarah ???’ od D?n, Iran",earthquake,null
+2021-03-12,39.6645,43.7922,4.1,"17 km NE of Diyadin, Turkey",earthquake,null
+2021-02-13,40.0309,44.4522,4.9,"0 km NNE of Hovtashen, Armenia",earthquake,null
+2021-02-05,40.5023,45.3486,5.2,"9 km SSW of Vahan, Armenia",earthquake,null
+2021-01-23,39.6733,45.6959,4.4,"16 km ENE of Zarrit’ap’, Armenia",earthquake,null
+2020-12-14,38.831,43.4625,4.7,"23 km SSE of Erci?, Turkey",earthquake,null
+2020-10-05,40.6674,47.7574,4.1,"2 km NE of Göyçay, Azerbaijan",earthquake,null
+2020-08-11,39.851,44.1997,4.3,Turkey-Iran border region,earthquake,null
+2020-04-03,38.8489,43.523,4.7,"24 km SE of Erci?, Turkey",earthquake,null
+2020-02-17,38.6408,43.1956,4,eastern Turkey,earthquake,null
+2020-01-18,40.9622,44.0131,3.9,"15 km NNE of Shirak, Armenia",earthquake,null
+2019-11-19,38.7317,44.4347,4,"39 km ENE of Özalp, Turkey",earthquake,null
+2019-09-14,38.9987,44.2673,4.4,"45 km NNE of Özalp, Turkey",earthquake,null
+2019-09-10,41.0373,44.1411,4.7,"15 km SW of Tashir, Armenia",earthquake,null
+2019-08-11,41.6062,46.6978,4.3,"5 km ESE of Zaqatala, Azerbaijan",earthquake,null
+2019-04-07,41.5202,46.8606,4.2,"7 km NW of Çinarl?, Azerbaijan",earthquake,null
+2019-02-18,38.587,44.1295,4.1,"14 km ESE of Özalp, Turkey",earthquake,null
+2023-01-18,38.3997,44.9477,4.4,"16 km S of Khowy, Iran",earthquake,null
+2023-02-11,41.9458,42.2302,4.4,"18 km E of Ozurgeti, Georgia",earthquake,null
+2022-10-05,38.5939,45.0923,4.5,"13 km ENE of Khowy, Iran",earthquake,null
+2023-01-28,38.6005,44.8287,4.5,"12 km WNW of Khowy, Iran",earthquake,null
+2023-01-29,38.41,44.8049,4.5,"20 km SW of Khowy, Iran",earthquake,null
+2022-06-10,38.8382,43.4028,4.6,"21 km S of Erci?, Turkey",earthquake,null
+2022-07-11,41.1354,43.9928,4.7,"21 km WSW of Metsavan, Armenia",earthquake,null
+2023-01-29,38.5096,44.7975,4.7,"14 km WSW of Khowy, Iran",earthquake,null
+2022-05-01,41.1134,44.0631,4.9,"17 km SW of Metsavan, Armenia",earthquake,null
+2022-09-21,38.4613,44.9496,5.1,"9 km S of Khowy, Iran",earthquake,null
+2023-01-28,38.4347,44.974,5.1,"12 km S of Khowy, Iran",earthquake,null
+2022-06-12,38.7366,43.5068,5.2,"28 km NNE of Van, Turkey",earthquake,null
+2022-09-27,40.7188,42.8876,5.3,"22 km WSW of Susuz, Turkey",earthquake,null
+2022-10-05,38.5064,45.0259,5.6,"8 km SE of Khowy, Iran",earthquake,null
+2023-01-18,38.4382,44.9433,5.7,Turkey-Iran border region,earthquake,null
+2023-01-28,38.4216,44.9108,5.9,null,earthquake,null
+2018-01-08,40.8129,44.8552,null,null,fire,Aqua
+2018-01-20,40.0585,44.0663,null,null,fire,Aqua
+2018-01-20,40.0289,44.4114,null,null,fire,Aqua
+2018-01-29,40.0683,44.4064,null,null,fire,Aqua
+2018-01-29,40.0698,44.4188,null,null,fire,Aqua
+2018-02-01,40.0802,44.1216,null,null,fire,Aqua
+2018-02-01,40.0541,44.0408,null,null,fire,Aqua
+2018-02-01,40.074,44.1306,null,null,fire,Aqua
+2018-02-01,40.0608,44.0318,null,null,fire,Aqua
+2018-02-05,40.0569,44.0679,null,null,fire,Terra
+2018-02-05,40.0572,44.0731,null,null,fire,Terra
+2018-02-07,40.0511,44.0216,null,null,fire,Terra
+2018-02-07,40.1568,44.1895,null,null,fire,Aqua
+2018-02-07,39.9245,44.5759,null,null,fire,Aqua
+2018-02-07,39.8543,44.598,null,null,fire,Aqua
+2018-02-07,40.3217,44.384,null,null,fire,Aqua
+2018-02-07,40.3201,44.3723,null,null,fire,Aqua
+2018-02-10,40.0549,44.2755,null,null,fire,Aqua
+2018-02-10,40.083,44.1148,null,null,fire,Aqua
+2018-02-10,40.0795,44.0977,null,null,fire,Aqua
+2018-02-10,40.0815,44.1222,null,null,fire,Aqua
+2018-02-10,39.5441,45.9933,null,null,fire,Aqua
+2018-02-12,40.1521,44.2515,null,null,fire,Aqua
+2018-02-14,39.7253,44.8325,null,null,fire,Aqua
+2018-02-14,39.8666,44.6161,null,null,fire,Aqua
+2018-02-16,39.9459,44.507,null,null,fire,Aqua
+2018-02-16,40.8105,43.8083,null,null,fire,Aqua
+2018-02-16,40.1179,44.1803,null,null,fire,Aqua
+2018-02-16,40.116,44.1685,null,null,fire,Aqua
+2018-02-16,40.8124,43.8203,null,null,fire,Aqua
+2018-02-25,40.0233,44.3985,null,null,fire,Terra
+2018-02-25,39.7331,44.8107,null,null,fire,Terra
+2018-02-25,40.1192,44.4145,null,null,fire,Aqua
+2018-02-25,40.0416,44.3568,null,null,fire,Aqua
+2018-02-25,40.1213,44.4273,null,null,fire,Aqua
+2018-03-13,39.646,45.8803,null,null,fire,Terra
+2018-03-17,39.9098,44.5774,null,null,fire,Terra
+2018-03-17,39.9114,44.5657,null,null,fire,Terra
+2018-03-19,39.9153,44.5465,null,null,fire,Terra
+2018-03-19,40.7932,44.4723,null,null,fire,Aqua
+2018-03-19,40.7816,44.4838,null,null,fire,Aqua
+2018-03-20,40.1876,44.581,null,null,fire,Aqua
+2018-03-21,39.4557,45.9254,null,null,fire,Terra
+2018-03-24,40.3893,44.6267,null,null,fire,Terra
+2018-03-24,40.3911,44.6151,null,null,fire,Terra
+2018-03-26,39.84,44.6027,null,null,fire,Terra
+2018-03-27,39.4512,45.9371,null,null,fire,Aqua
+2018-03-28,40.6275,44.6928,null,null,fire,Terra
+2018-04-02,39.9381,44.5688,null,null,fire,Terra
+2018-04-02,39.9487,44.5591,null,null,fire,Terra
+2018-04-02,39.9398,44.557,null,null,fire,Terra
+2018-04-05,40.5984,44.7228,null,null,fire,Aqua
+2018-04-06,39.8846,44.5771,null,null,fire,Terra
+2018-04-06,39.4479,45.9221,null,null,fire,Terra
+2018-04-06,39.8801,44.5698,null,null,fire,Terra
+2018-04-06,39.8922,44.5714,null,null,fire,Terra
+2018-04-06,39.8836,44.5744,null,null,fire,Aqua
+2018-04-07,40.1408,44.5612,null,null,fire,Terra
+2018-04-07,39.8922,44.576,null,null,fire,Aqua
+2018-04-07,39.8896,44.5616,null,null,fire,Aqua
+2018-04-09,39.5078,46.1125,null,null,fire,Terra
+2018-04-16,39.815,44.6482,null,null,fire,Terra
+2018-04-23,40.0628,44.422,null,null,fire,Terra
+2018-04-25,40.8896,44.8682,null,null,fire,Aqua
+2018-04-25,40.8882,44.8522,null,null,fire,Aqua
+2018-05-02,40.1707,44.4254,null,null,fire,Terra
+2018-05-11,40.1436,44.4779,null,null,fire,Terra
+2018-05-18,40.7781,43.8457,null,null,fire,Terra
+2018-05-18,40.619,43.9694,null,null,fire,Terra
+2018-05-18,40.0621,44.4199,null,null,fire,Terra
+2018-05-23,40.0641,44.4138,null,null,fire,Aqua
+2018-05-27,40.6205,43.9695,null,null,fire,Terra
+2018-05-27,39.9585,44.5588,null,null,fire,Terra
+2018-06-03,40.1661,44.2924,null,null,fire,Terra
+2018-06-07,40.6175,43.9726,null,null,fire,Terra
+2018-06-08,40.0602,44.4123,null,null,fire,Aqua
+2018-06-08,40.062,44.424,null,null,fire,Aqua
+2018-06-10,40.0978,44.327,null,null,fire,Terra
+2018-06-17,39.9539,44.5543,null,null,fire,Aqua
+2018-06-19,40.0661,44.4151,null,null,fire,Terra
+2018-06-26,40.0965,44.3328,null,null,fire,Terra
+2018-06-28,40.5459,44.962,null,null,fire,Terra
+2018-06-30,39.72,45.1203,null,null,fire,Terra
+2018-06-30,39.7734,45.0508,null,null,fire,Terra
+2018-06-30,39.7714,45.0388,null,null,fire,Terra
+2018-07-01,40.8091,44.4888,null,null,fire,Terra
+2018-07-03,39.9527,44.5543,null,null,fire,Aqua
+2018-07-03,40.0424,44.4155,null,null,fire,Aqua
+2018-07-05,39.7488,45.1137,null,null,fire,Terra
+2018-07-05,39.7511,45.1003,null,null,fire,Terra
+2018-07-05,39.7605,45.1025,null,null,fire,Terra
+2018-07-05,39.7694,45.0502,null,null,fire,Terra
+2018-07-05,39.7732,45.0571,null,null,fire,Terra
+2018-07-05,39.7755,45.0439,null,null,fire,Terra
+2018-07-05,39.7695,45.1137,null,null,fire,Aqua
+2018-07-05,39.756,45.1002,null,null,fire,Aqua
+2018-07-05,39.7591,45.1166,null,null,fire,Aqua
+2018-07-05,39.7485,45.1187,null,null,fire,Aqua
+2018-07-05,39.7746,45.0557,null,null,fire,Aqua
+2018-07-05,39.7677,45.0457,null,null,fire,Aqua
+2018-07-05,39.7666,45.0984,null,null,fire,Aqua
+2018-07-06,39.7755,45.106,null,null,fire,Terra
+2018-07-06,39.7756,45.0974,null,null,fire,Terra
+2018-07-06,39.7832,45.0765,null,null,fire,Aqua
+2018-07-07,40.1633,44.261,null,null,fire,Terra
+2018-07-08,40.1621,44.2405,null,null,fire,Aqua
+2018-07-08,40.2026,44.5608,null,null,fire,Aqua
+2018-07-10,40.1033,44.463,null,null,fire,Terra
+2018-07-12,40.1518,44.2314,null,null,fire,Terra
+2018-07-20,39.8614,44.6271,null,null,fire,Terra
+2018-07-20,39.864,44.6201,null,null,fire,Terra
+2018-07-20,39.729,45.4566,null,null,fire,Aqua
+2018-07-20,39.7352,45.4627,null,null,fire,Aqua
+2018-07-20,39.7333,45.4346,null,null,fire,Aqua
+2018-07-20,39.7426,45.4527,null,null,fire,Aqua
+2018-07-20,39.7361,45.4454,null,null,fire,Aqua
+2018-07-28,40.0843,44.4302,null,null,fire,Terra
+2018-07-28,40.0837,44.4242,null,null,fire,Terra
+2018-07-28,41.1834,45.0168,null,null,fire,Aqua
+2018-07-29,40.9642,44.5551,null,null,fire,Aqua
+2018-08-02,40.9075,45.4974,null,null,fire,Aqua
+2018-08-03,41.2303,45.0136,null,null,fire,Terra
+2018-08-06,40.3497,44.6058,null,null,fire,Terra
+2018-08-06,40.3518,44.5935,null,null,fire,Terra
+2018-08-06,40.1608,44.3094,null,null,fire,Terra
+2018-08-13,40.3033,44.6323,null,null,fire,Terra
+2018-08-15,40.6654,43.8184,null,null,fire,Terra
+2018-08-15,40.0111,44.4826,null,null,fire,Terra
+2018-08-17,40.988,44.5873,null,null,fire,Terra
+2018-08-17,41.2317,44.9891,null,null,fire,Aqua
+2018-08-17,41.2266,44.9864,null,null,fire,Aqua
+2018-08-17,41.2326,45.0121,null,null,fire,Aqua
+2018-08-17,41.2375,45.0147,null,null,fire,Aqua
+2018-08-18,40.2607,45.782,null,null,fire,Terra
+2018-08-25,40.2391,45.731,null,null,fire,Aqua
+2018-08-27,39.5219,46.5044,null,null,fire,Terra
+2018-08-27,39.5298,46.5146,null,null,fire,Terra
+2018-08-28,39.4815,46.3775,null,null,fire,Terra
+2018-08-29,40.2505,45.7815,null,null,fire,Terra
+2018-08-29,40.2454,45.7858,null,null,fire,Terra
+2018-08-29,41.0406,45.1092,null,null,fire,Aqua
+2018-08-29,41.0261,45.1968,null,null,fire,Aqua
+2018-08-29,41.0239,45.1837,null,null,fire,Aqua
+2018-08-29,40.2347,45.7837,null,null,fire,Aqua
+2018-08-29,40.2369,45.7965,null,null,fire,Aqua
+2018-08-30,39.561,46.4249,null,null,fire,Terra
+2018-08-30,40.7914,43.8771,null,null,fire,Aqua
+2018-08-31,40.825,43.8806,null,null,fire,Terra
+2018-08-31,40.8161,43.8784,null,null,fire,Terra
+2018-08-31,41.1237,45.1739,null,null,fire,Aqua
+2018-08-31,41.1236,45.1691,null,null,fire,Aqua
+2018-09-01,40.43,44.7514,null,null,fire,Terra
+2018-09-01,40.311,44.6484,null,null,fire,Aqua
+2018-09-01,40.3125,44.6629,null,null,fire,Aqua
+2018-09-01,40.3026,44.665,null,null,fire,Aqua
+2018-09-01,40.301,44.6504,null,null,fire,Aqua
+2018-09-01,40.2995,44.6358,null,null,fire,Aqua
+2018-09-01,40.4485,44.7065,null,null,fire,Aqua
+2018-09-01,40.4501,44.7212,null,null,fire,Aqua
+2018-09-01,40.7202,43.7843,null,null,fire,Aqua
+2018-09-01,40.4316,44.7391,null,null,fire,Aqua
+2018-09-02,40.8545,44.132,null,null,fire,Terra
+2018-09-02,40.4,44.6028,null,null,fire,Terra
+2018-09-02,40.6607,44.1369,null,null,fire,Terra
+2018-09-02,40.1304,44.2488,null,null,fire,Terra
+2018-09-03,41.0901,44.217,null,null,fire,Terra
+2018-09-03,41.0825,44.2323,null,null,fire,Terra
+2018-09-03,41.085,44.24,null,null,fire,Terra
+2018-09-03,41.0794,44.2245,null,null,fire,Aqua
+2018-09-03,40.6539,43.8195,null,null,fire,Aqua
+2018-09-03,40.5917,43.8349,null,null,fire,Aqua
+2018-09-04,40.5126,43.7181,null,null,fire,Aqua
+2018-09-04,40.5157,43.7227,null,null,fire,Aqua
+2018-09-05,41.0988,44.2466,null,null,fire,Terra
+2018-09-05,40.5094,44.7872,null,null,fire,Terra
+2018-09-05,40.4415,44.7336,null,null,fire,Aqua
+2018-09-05,40.4906,44.8618,null,null,fire,Aqua
+2018-09-05,40.2824,44.4428,null,null,fire,Aqua
+2018-09-05,40.8431,43.7929,null,null,fire,Aqua
+2018-09-05,40.1631,44.5937,null,null,fire,Terra
+2018-09-05,40.1615,44.5768,null,null,fire,Terra
+2018-09-06,39.5933,46.0885,null,null,fire,Terra
+2018-09-06,39.5951,46.0668,null,null,fire,Terra
+2018-09-06,39.5988,46.0839,null,null,fire,Terra
+2018-09-06,40.5916,43.8002,null,null,fire,Aqua
+2018-09-07,40.5243,43.7075,null,null,fire,Terra
+2018-09-07,40.5153,43.7052,null,null,fire,Terra
+2018-09-07,40.4612,44.4447,null,null,fire,Terra
+2018-09-07,40.1781,44.5296,null,null,fire,Terra
+2018-09-07,40.5084,44.8739,null,null,fire,Terra
+2018-09-07,40.5248,43.7719,null,null,fire,Terra
+2018-09-07,40.4636,43.5864,null,null,fire,Terra
+2018-09-07,40.4651,43.5985,null,null,fire,Terra
+2018-09-07,40.4546,43.5886,null,null,fire,Terra
+2018-09-07,40.4561,43.6006,null,null,fire,Terra
+2018-09-08,40.5764,43.8031,null,null,fire,Aqua
+2018-09-09,40.6605,43.8363,null,null,fire,Terra
+2018-09-10,39.5972,46.0899,null,null,fire,Terra
+2018-09-10,40.4352,44.7184,null,null,fire,Aqua
+2018-09-10,39.7087,45.1394,null,null,fire,Aqua
+2018-09-10,40.5092,44.8167,null,null,fire,Aqua
+2018-09-11,40.3178,44.8348,null,null,fire,Terra
+2018-09-12,40.1188,44.0282,null,null,fire,Terra
+2018-09-12,40.3872,44.6594,null,null,fire,Terra
+2018-09-12,40.1204,44.023,null,null,fire,Terra
+2018-09-12,40.4015,44.7031,null,null,fire,Aqua
+2018-09-12,40.4546,44.7499,null,null,fire,Aqua
+2018-09-12,40.4634,44.7476,null,null,fire,Aqua
+2018-09-12,40.3998,44.6915,null,null,fire,Aqua
+2018-09-14,40.3771,44.8023,null,null,fire,Terra
+2018-09-14,40.3699,44.7855,null,null,fire,Terra
+2018-09-14,40.3576,44.7964,null,null,fire,Terra
+2018-09-14,40.3479,44.7934,null,null,fire,Terra
+2018-09-14,40.5325,44.8053,null,null,fire,Terra
+2018-09-14,40.1268,44.243,null,null,fire,Terra
+2018-09-14,40.2401,45.7565,null,null,fire,Terra
+2018-09-14,40.095,45.1253,null,null,fire,Aqua
+2018-09-14,40.0973,45.1384,null,null,fire,Aqua
+2018-09-14,40.3281,44.6767,null,null,fire,Aqua
+2018-09-14,40.3582,44.7884,null,null,fire,Aqua
+2018-09-14,40.3703,44.7995,null,null,fire,Aqua
+2018-09-14,40.3557,44.7742,null,null,fire,Aqua
+2018-09-14,40.3774,44.7824,null,null,fire,Aqua
+2018-09-14,40.3799,44.7967,null,null,fire,Aqua
+2018-09-14,40.3653,44.771,null,null,fire,Aqua
+2018-09-14,40.1045,45.1223,null,null,fire,Aqua
+2018-09-14,40.3678,44.7853,null,null,fire,Aqua
+2018-09-14,40.3512,44.8057,null,null,fire,Aqua
+2018-09-14,40.3486,44.7915,null,null,fire,Aqua
+2018-09-14,40.3607,44.8026,null,null,fire,Aqua
+2018-09-14,40.3622,44.7796,null,null,fire,Terra
+2018-09-15,40.1101,45.1483,null,null,fire,Terra
+2018-09-15,40.3711,44.8079,null,null,fire,Terra
+2018-09-15,40.3682,44.8011,null,null,fire,Terra
+2018-09-15,39.4442,45.9413,null,null,fire,Aqua
+2018-09-15,39.457,45.9393,null,null,fire,Aqua
+2018-09-15,39.459,45.9663,null,null,fire,Aqua
+2018-09-15,39.4422,45.9134,null,null,fire,Aqua
+2018-09-15,39.4309,45.921,null,null,fire,Aqua
+2018-09-15,39.4458,45.9464,null,null,fire,Aqua
+2018-09-15,39.4905,46.4125,null,null,fire,Aqua
+2018-09-15,39.4436,45.9187,null,null,fire,Aqua
+2018-09-15,39.5982,46.0897,null,null,fire,Aqua
+2018-09-15,39.4606,45.9713,null,null,fire,Aqua
+2018-09-15,39.4585,45.9445,null,null,fire,Aqua
+2018-09-15,39.4315,45.9435,null,null,fire,Aqua
+2018-09-15,39.4294,45.9151,null,null,fire,Aqua
+2018-09-15,40.3643,44.7992,null,null,fire,Aqua
+2018-09-15,40.378,44.8184,null,null,fire,Aqua
+2018-09-15,40.366,44.8201,null,null,fire,Aqua
+2018-09-16,39.7324,44.7599,null,null,fire,Terra
+2018-09-16,40.3787,44.7752,null,null,fire,Terra
+2018-09-16,39.5275,46.1086,null,null,fire,Aqua
+2018-09-16,39.0736,46.4881,null,null,fire,Aqua
+2018-09-17,40.4068,44.7493,null,null,fire,Aqua
+2018-09-17,40.4562,43.8367,null,null,fire,Aqua
+2018-09-17,40.3401,44.7817,null,null,fire,Aqua
+2018-09-17,40.3385,44.7672,null,null,fire,Aqua
+2018-09-18,39.7605,44.7317,null,null,fire,Terra
+2018-09-19,39.8525,44.9588,null,null,fire,Aqua
+2018-09-19,39.854,44.9704,null,null,fire,Aqua
+2018-09-19,40.6799,44.3395,null,null,fire,Aqua
+2018-09-19,40.5462,43.7883,null,null,fire,Aqua
+2018-09-21,40.5312,43.7899,null,null,fire,Aqua
+2018-09-21,40.5814,43.824,null,null,fire,Aqua
+2018-09-21,40.6001,43.8184,null,null,fire,Aqua
+2018-09-24,40.2209,45.8309,null,null,fire,Aqua
+2018-09-24,40.218,45.8461,null,null,fire,Aqua
+2018-09-25,40.4642,44.8478,null,null,fire,Terra
+2018-09-25,40.2996,44.772,null,null,fire,Terra
+2018-09-25,40.4625,44.8595,null,null,fire,Terra
+2018-09-25,40.4553,44.8457,null,null,fire,Terra
+2018-09-25,39.5935,46.1084,null,null,fire,Terra
+2018-09-25,39.5953,46.0969,null,null,fire,Terra
+2018-09-25,40.4543,44.8365,null,null,fire,Aqua
+2018-09-25,40.4539,44.8441,null,null,fire,Aqua
+2018-09-25,39.5436,46.0538,null,null,fire,Aqua
+2018-09-25,39.5931,46.0786,null,null,fire,Aqua
+2018-09-25,39.5884,46.0563,null,null,fire,Aqua
+2018-09-25,40.1475,44.2724,null,null,fire,Terra
+2018-09-26,40.1628,44.6707,null,null,fire,Aqua
+2018-09-27,39.7186,45.1378,null,null,fire,Terra
+2018-09-30,40.42,44.7634,null,null,fire,Terra
+2018-09-30,40.4486,44.8321,null,null,fire,Terra
+2018-09-30,39.7151,45.5365,null,null,fire,Terra
+2018-09-30,40.5605,43.7503,null,null,fire,Terra
+2018-09-30,40.3525,43.6189,null,null,fire,Terra
+2018-09-30,40.2151,44.8068,null,null,fire,Terra
+2018-09-30,40.5697,43.7533,null,null,fire,Terra
+2018-09-30,40.2223,44.8233,null,null,fire,Terra
+2018-09-30,40.563,43.7919,null,null,fire,Terra
+2018-09-30,40.4175,44.7773,null,null,fire,Terra
+2018-09-30,40.2179,44.8058,null,null,fire,Aqua
+2018-09-30,40.4288,44.7723,null,null,fire,Aqua
+2018-09-30,40.4166,44.7607,null,null,fire,Aqua
+2018-09-30,40.3336,44.7638,null,null,fire,Aqua
+2018-09-30,40.5537,43.7442,null,null,fire,Aqua
+2018-09-30,39.5376,45.891,null,null,fire,Aqua
+2018-09-30,39.5999,46.0883,null,null,fire,Aqua
+2018-10-03,39.9064,45.0267,null,null,fire,Aqua
+2018-10-04,40.4332,43.7722,null,null,fire,Terra
+2018-10-04,41.1043,44.2086,null,null,fire,Terra
+2018-10-04,40.1478,45.596,null,null,fire,Terra
+2018-10-04,39.2256,46.5778,null,null,fire,Terra
+2018-10-04,39.2239,46.5892,null,null,fire,Terra
+2018-10-04,40.251,44.8166,null,null,fire,Terra
+2018-10-04,40.0424,44.2129,null,null,fire,Terra
+2018-10-04,39.2139,46.5761,null,null,fire,Aqua
+2018-10-05,39.1594,46.1782,null,null,fire,Aqua
+2018-10-05,39.1579,46.166,null,null,fire,Aqua
+2018-10-05,39.9258,45.1304,null,null,fire,Aqua
+2018-10-05,41.1243,45.1507,null,null,fire,Aqua
+2018-10-05,41.1227,45.1384,null,null,fire,Aqua
+2018-10-05,40.3509,44.5969,null,null,fire,Aqua
+2018-10-05,40.3878,44.7327,null,null,fire,Aqua
+2018-10-05,39.9184,45.1441,null,null,fire,Aqua
+2018-10-05,39.9168,45.1325,null,null,fire,Aqua
+2018-10-06,40.4162,43.7386,null,null,fire,Terra
+2018-10-06,40.4137,43.7442,null,null,fire,Terra
+2018-10-06,39.8064,44.6526,null,null,fire,Terra
+2018-10-06,39.8047,44.6698,null,null,fire,Terra
+2018-10-06,40.1283,45.5738,null,null,fire,Terra
+2018-10-06,40.4756,44.877,null,null,fire,Aqua
+2018-10-06,40.2811,44.7685,null,null,fire,Aqua
+2018-10-06,40.2765,44.7791,null,null,fire,Aqua
+2018-10-06,40.4185,44.7978,null,null,fire,Aqua
+2018-10-06,40.3855,44.6471,null,null,fire,Aqua
+2018-10-06,40.3802,44.6399,null,null,fire,Aqua
+2018-10-07,40.2234,44.8164,null,null,fire,Terra
+2018-10-07,40.0951,45.5673,null,null,fire,Aqua
+2018-10-07,40.104,45.5648,null,null,fire,Aqua
+2018-10-07,40.1315,45.8028,null,null,fire,Aqua
+2018-10-07,40.4915,43.6875,null,null,fire,Aqua
+2018-10-07,40.4386,44.6479,null,null,fire,Aqua
+2018-10-08,40.5034,43.7467,null,null,fire,Terra
+2018-10-08,40.2346,44.7861,null,null,fire,Aqua
+2018-10-08,40.0053,45.1904,null,null,fire,Aqua
+2018-10-08,40.2407,44.8143,null,null,fire,Aqua
+2018-10-08,40.239,44.7901,null,null,fire,Aqua
+2018-10-08,40.4225,44.8368,null,null,fire,Aqua
+2018-10-08,40.431,44.8318,null,null,fire,Aqua
+2018-10-09,40.0137,43.9951,null,null,fire,Terra
+2018-10-11,41.0083,45.399,null,null,fire,Terra
+2018-10-12,40.1741,45.1156,null,null,fire,Aqua
+2018-10-14,39.9426,45.1421,null,null,fire,Terra
+2018-10-14,39.938,45.1635,null,null,fire,Terra
+2018-10-14,39.9368,45.1433,null,null,fire,Aqua
+2018-10-14,40.315,44.7652,null,null,fire,Aqua
+2018-10-14,40.0171,45.1891,null,null,fire,Aqua
+2018-10-14,40.0082,45.1913,null,null,fire,Aqua
+2018-10-14,40.0066,45.1798,null,null,fire,Aqua
+2018-10-14,40.0154,45.1776,null,null,fire,Aqua
+2018-10-14,39.8893,44.5782,null,null,fire,Aqua
+2018-10-14,40.5998,43.7827,null,null,fire,Aqua
+2018-10-14,40.3133,44.7535,null,null,fire,Aqua
+2018-10-15,40.0422,45.0858,null,null,fire,Aqua
+2018-10-15,40.0543,45.1257,null,null,fire,Aqua
+2018-10-15,40.0412,45.0795,null,null,fire,Aqua
+2018-10-15,40.0552,45.1328,null,null,fire,Aqua
+2018-10-16,40.485,44.9357,null,null,fire,Terra
+2018-10-16,40.1125,45.0997,null,null,fire,Terra
+2018-10-16,40.0433,45.789,null,null,fire,Aqua
+2018-10-16,40.4732,44.9251,null,null,fire,Aqua
+2018-10-16,40.1095,45.0913,null,null,fire,Aqua
+2018-10-16,40.4827,44.9219,null,null,fire,Aqua
+2018-10-16,40.4069,45.0247,null,null,fire,Aqua
+2018-10-16,40.4318,44.747,null,null,fire,Aqua
+2018-10-16,40.4851,44.9356,null,null,fire,Aqua
+2018-10-17,39.9801,45.1685,null,null,fire,Aqua
+2018-10-17,39.9678,45.1697,null,null,fire,Aqua
+2018-10-17,39.611,46.0477,null,null,fire,Aqua
+2018-10-17,40.4874,44.8811,null,null,fire,Aqua
+2018-10-17,39.9697,45.1928,null,null,fire,Aqua
+2018-10-17,40.6136,45.1596,null,null,fire,Aqua
+2018-10-17,39.6091,46.0432,null,null,fire,Aqua
+2018-10-18,40.4966,44.822,null,null,fire,Terra
+2018-10-18,40.2502,45.036,null,null,fire,Terra
+2018-10-18,40.0089,45.5011,null,null,fire,Terra
+2018-10-18,40.4984,44.8104,null,null,fire,Terra
+2018-10-18,40.0071,45.5127,null,null,fire,Terra
+2018-10-18,39.5867,45.8291,null,null,fire,Aqua
+2018-10-18,40.1681,45.0507,null,null,fire,Aqua
+2018-10-18,40.157,45.0545,null,null,fire,Aqua
+2018-10-18,40.1666,45.0382,null,null,fire,Aqua
+2018-10-18,40.1555,45.0426,null,null,fire,Aqua
+2018-10-18,40.1591,45.0604,null,null,fire,Aqua
+2018-10-18,40.0499,45.1584,null,null,fire,Aqua
+2018-10-18,40.0387,45.162,null,null,fire,Aqua
+2018-10-18,40.0428,45.1817,null,null,fire,Aqua
+2018-10-18,40.4597,43.6458,null,null,fire,Aqua
+2018-10-18,40.0027,45.5085,null,null,fire,Aqua
+2018-10-18,39.5909,46.0957,null,null,fire,Aqua
+2018-10-18,40.0136,45.5049,null,null,fire,Aqua
+2018-10-18,40.4124,44.8122,null,null,fire,Aqua
+2018-10-18,39.5756,45.8314,null,null,fire,Aqua
+2018-10-18,39.9445,45.2602,null,null,fire,Terra
+2018-10-18,39.943,45.2486,null,null,fire,Terra
+2018-10-19,40.4342,44.8942,null,null,fire,Terra
+2018-10-19,40.4387,44.8908,null,null,fire,Terra
+2018-10-19,40.0552,45.4506,null,null,fire,Terra
+2018-10-19,40.047,45.4525,null,null,fire,Terra
+2018-10-19,40.0454,45.488,null,null,fire,Terra
+2018-10-19,39.992,45.1951,null,null,fire,Terra
+2018-10-19,39.9842,45.1843,null,null,fire,Terra
+2018-10-19,39.991,45.2095,null,null,fire,Aqua
+2018-10-19,40.4401,44.9413,null,null,fire,Aqua
+2018-10-19,40.4452,44.894,null,null,fire,Aqua
+2018-10-19,40.4436,44.8792,null,null,fire,Aqua
+2018-10-19,40.4681,44.9316,null,null,fire,Aqua
+2018-10-19,40.5172,44.8172,null,null,fire,Aqua
+2018-10-19,40.5188,44.8319,null,null,fire,Aqua
+2018-10-19,40.1019,45.3885,null,null,fire,Aqua
+2018-10-19,40.7599,43.898,null,null,fire,Aqua
+2018-10-19,40.9273,44.0205,null,null,fire,Aqua
+2018-10-19,39.9792,45.1959,null,null,fire,Aqua
+2018-10-19,39.9893,45.1938,null,null,fire,Aqua
+2018-10-19,39.9828,45.1325,null,null,fire,Aqua
+2018-10-19,40.0011,45.2077,null,null,fire,Aqua
+2018-10-19,39.9995,45.1921,null,null,fire,Aqua
+2018-10-19,39.9928,45.1303,null,null,fire,Aqua
+2018-10-19,40.0454,45.1461,null,null,fire,Aqua
+2018-10-19,39.6032,46.0712,null,null,fire,Aqua
+2018-10-19,39.6016,46.055,null,null,fire,Aqua
+2018-10-19,39.5429,45.8553,null,null,fire,Aqua
+2018-10-19,40.001,45.5048,null,null,fire,Aqua
+2018-10-19,40.0113,45.503,null,null,fire,Aqua
+2018-10-19,40.0527,45.4972,null,null,fire,Aqua
+2018-10-19,40.0494,45.4661,null,null,fire,Aqua
+2018-10-19,40.8343,44.0888,null,null,fire,Aqua
+2018-10-20,40.0463,45.5985,null,null,fire,Terra
+2018-10-20,40.0098,45.4611,null,null,fire,Terra
+2018-10-20,40.4833,44.9269,null,null,fire,Terra
+2018-10-20,40.2143,44.8001,null,null,fire,Terra
+2018-10-21,39.5955,45.9776,null,null,fire,Aqua
+2018-10-21,40.3367,44.8281,null,null,fire,Aqua
+2018-10-21,40.089,45.3856,null,null,fire,Aqua
+2018-10-21,40.3352,44.8164,null,null,fire,Aqua
+2018-10-21,40.0694,45.3773,null,null,fire,Aqua
+2018-10-21,40.0964,45.17,null,null,fire,Aqua
+2018-10-29,40.5928,44.7559,null,null,fire,Aqua
+2018-10-30,40.2815,45.6601,null,null,fire,Terra
+2018-10-30,39.6121,45.986,null,null,fire,Aqua
+2018-10-31,39.5815,46.0219,null,null,fire,Aqua
+2018-10-31,39.5834,46.0184,null,null,fire,Aqua
+2018-10-31,40.0561,45.1787,null,null,fire,Aqua
+2018-11-01,40.8822,44.3496,null,null,fire,Terra
+2018-11-01,40.8797,44.3639,null,null,fire,Terra
+2018-11-01,40.4363,44.9049,null,null,fire,Aqua
+2018-11-01,40.4227,44.7155,null,null,fire,Aqua
+2018-11-01,40.8779,44.3637,null,null,fire,Aqua
+2018-11-01,40.8753,44.349,null,null,fire,Aqua
+2018-11-01,40.8878,44.3616,null,null,fire,Aqua
+2018-11-01,40.453,44.9423,null,null,fire,Aqua
+2018-11-01,40.435,44.9108,null,null,fire,Aqua
+2018-11-03,39.8476,45.5138,null,null,fire,Terra
+2018-11-03,39.8469,45.504,null,null,fire,Aqua
+2018-11-03,39.9673,45.0546,null,null,fire,Aqua
+2018-11-04,39.0247,46.2711,null,null,fire,Aqua
+2018-11-04,39.0306,46.2771,null,null,fire,Aqua
+2018-11-04,40.9252,44.009,null,null,fire,Aqua
+2018-11-04,40.3769,44.5525,null,null,fire,Aqua
+2018-11-04,40.9268,44.0231,null,null,fire,Aqua
+2018-11-04,40.2194,45.9583,null,null,fire,Aqua
+2018-11-10,41.2514,44.8543,null,null,fire,Terra
+2018-11-10,40.916,44.1754,null,null,fire,Terra
+2018-11-10,40.914,44.1875,null,null,fire,Terra
+2018-11-10,41.0267,43.9461,null,null,fire,Aqua
+2018-11-10,40.373,44.7283,null,null,fire,Aqua
+2018-11-10,40.22,45.8444,null,null,fire,Aqua
+2018-11-10,41.0196,43.9679,null,null,fire,Aqua
+2018-11-10,41.0159,43.9491,null,null,fire,Aqua
+2018-11-11,40.591,45.2569,null,null,fire,Aqua
+2018-11-11,40.7402,44.0974,null,null,fire,Aqua
+2018-11-19,40.6312,44.6827,null,null,fire,Aqua
+2018-11-19,40.6275,44.6762,null,null,fire,Aqua
+2018-11-20,39.5631,46.0894,null,null,fire,Aqua
+2018-11-29,39.5738,46.1109,null,null,fire,Aqua
+2018-11-29,39.5754,46.1038,null,null,fire,Aqua
+2018-11-29,39.5769,46.1174,null,null,fire,Aqua
+2019-01-12,41.0099,45.1699,null,null,fire,Aqua
+2019-01-13,40.8566,45.3845,null,null,fire,Terra
+2019-01-14,41.1614,44.2576,null,null,fire,Terra
+2019-01-14,41.1518,44.2206,null,null,fire,Terra
+2019-01-14,41.1415,44.2318,null,null,fire,Terra
+2019-01-14,41.151,44.2689,null,null,fire,Terra
+2019-01-16,40.9098,45.4338,null,null,fire,Aqua
+2019-01-27,41.037,44.3246,null,null,fire,Terra
+2019-01-27,41.0613,44.3549,null,null,fire,Terra
+2019-02-06,41.0522,44.3539,null,null,fire,Aqua
+2019-02-06,41.1989,44.3257,null,null,fire,Aqua
+2019-02-12,39.8923,44.5782,null,null,fire,Aqua
+2019-02-12,40.9922,44.3102,null,null,fire,Aqua
+2019-02-12,41.0013,44.307,null,null,fire,Aqua
+2019-02-13,41.1366,44.0872,null,null,fire,Aqua
+2019-02-14,40.8568,44.4283,null,null,fire,Aqua
+2019-02-17,40.043,44.338,null,null,fire,Terra
+2019-02-17,40.0952,44.1153,null,null,fire,Terra
+2019-02-17,40.0758,44.1376,null,null,fire,Terra
+2019-02-17,40.0497,44.3356,null,null,fire,Terra
+2019-02-17,40.0876,44.1071,null,null,fire,Terra
+2019-02-17,40.0813,44.1346,null,null,fire,Terra
+2019-02-17,39.7259,44.8108,null,null,fire,Terra
+2019-02-17,39.736,44.8098,null,null,fire,Terra
+2019-02-17,40.0396,44.3386,null,null,fire,Aqua
+2019-02-17,40.038,44.3263,null,null,fire,Aqua
+2019-02-17,40.0591,44.2714,null,null,fire,Aqua
+2019-02-17,40.106,44.2178,null,null,fire,Aqua
+2019-02-17,40.2244,44.2732,null,null,fire,Aqua
+2019-02-18,41.1389,44.2229,null,null,fire,Terra
+2019-02-19,39.8922,44.5631,null,null,fire,Terra
+2019-02-19,39.8881,44.5827,null,null,fire,Terra
+2019-02-19,39.7979,44.7342,null,null,fire,Aqua
+2019-02-19,39.9263,44.5437,null,null,fire,Aqua
+2019-02-19,40.0773,44.3213,null,null,fire,Aqua
+2019-02-19,40.0917,44.3541,null,null,fire,Aqua
+2019-02-19,40.0898,44.3424,null,null,fire,Aqua
+2019-02-19,40.0584,44.0805,null,null,fire,Aqua
+2019-02-19,40.0692,44.09,null,null,fire,Aqua
+2019-02-19,40.0673,44.0781,null,null,fire,Aqua
+2019-02-19,40.1017,44.0004,null,null,fire,Aqua
+2019-02-19,40.3301,43.7393,null,null,fire,Aqua
+2019-02-19,40.3282,43.7273,null,null,fire,Aqua
+2019-02-21,40.9861,44.8225,null,null,fire,Terra
+2019-02-21,40.1295,44.2866,null,null,fire,Aqua
+2019-02-21,40.9843,44.8277,null,null,fire,Aqua
+2019-02-21,40.7059,45.196,null,null,fire,Aqua
+2019-02-21,40.7034,45.1821,null,null,fire,Aqua
+2019-02-21,41.2345,44.9631,null,null,fire,Aqua
+2019-02-22,41.1493,44.3945,null,null,fire,Aqua
+2019-02-22,41.1629,44.4144,null,null,fire,Aqua
+2019-02-22,41.1611,44.3933,null,null,fire,Aqua
+2019-02-23,41.1708,44.1603,null,null,fire,Terra
+2019-02-23,39.6502,45.4534,null,null,fire,Terra
+2019-02-23,41.1876,44.2581,null,null,fire,Aqua
+2019-02-23,41.1963,44.3142,null,null,fire,Aqua
+2019-02-23,41.1831,44.2523,null,null,fire,Aqua
+2019-02-24,40.0201,44.4427,null,null,fire,Aqua
+2019-02-24,40.1118,44.2765,null,null,fire,Aqua
+2019-02-24,40.1086,44.1642,null,null,fire,Aqua
+2019-02-24,40.107,44.1505,null,null,fire,Aqua
+2019-02-24,40.8426,44.4449,null,null,fire,Aqua
+2019-02-25,40.1191,44.1772,null,null,fire,Aqua
+2019-02-25,40.1204,44.1694,null,null,fire,Aqua
+2019-02-26,40.0879,44.1296,null,null,fire,Terra
+2019-02-26,39.4542,46.1366,null,null,fire,Aqua
+2019-03-06,40.1249,44.1286,null,null,fire,Aqua
+2019-03-09,40.1808,44.4486,null,null,fire,Terra
+2019-03-09,40.0947,44.1576,null,null,fire,Aqua
+2019-03-10,41.003,45.2356,null,null,fire,Aqua
+2019-03-11,40.8943,45.416,null,null,fire,Terra
+2019-03-11,40.8394,45.5311,null,null,fire,Terra
+2019-03-11,40.1285,44.0608,null,null,fire,Terra
+2019-03-11,39.4621,46.1296,null,null,fire,Aqua
+2019-03-11,39.4591,46.114,null,null,fire,Aqua
+2019-03-11,41.0294,45.1613,null,null,fire,Aqua
+2019-03-11,41.1507,44.2688,null,null,fire,Aqua
+2019-03-16,41.0331,44.8216,null,null,fire,Terra
+2019-03-21,39.9686,44.4763,null,null,fire,Aqua
+2019-04-05,39.9173,44.5429,null,null,fire,Terra
+2019-04-13,39.5376,46.1019,null,null,fire,Aqua
+2019-04-13,39.7382,45.1821,null,null,fire,Aqua
+2019-04-13,40.6431,44.9179,null,null,fire,Aqua
+2019-04-26,39.418,46.0237,null,null,fire,Terra
+2019-04-28,40.205,44.5047,null,null,fire,Terra
+2019-05-03,40.6352,45.1375,null,null,fire,Terra
+2019-05-03,40.6321,45.1531,null,null,fire,Terra
+2019-05-03,40.6244,45.1353,null,null,fire,Terra
+2019-05-03,40.6213,45.1513,null,null,fire,Terra
+2019-05-05,40.1743,44.4321,null,null,fire,Terra
+2019-05-05,40.0643,44.421,null,null,fire,Terra
+2019-05-08,40.6308,44.5797,null,null,fire,Aqua
+2019-05-08,40.6872,44.8849,null,null,fire,Aqua
+2019-05-26,40.0623,44.4121,null,null,fire,Aqua
+2019-06-01,40.1654,44.4978,null,null,fire,Terra
+2019-06-06,40.1848,44.5733,null,null,fire,Terra
+2019-06-09,40.2595,44.4078,null,null,fire,Aqua
+2019-06-15,38.891,46.2204,null,null,fire,Terra
+2019-06-22,40.1808,44.4421,null,null,fire,Terra
+2019-06-22,40.1278,44.5918,null,null,fire,Terra
+2019-06-24,39.7532,45.1575,null,null,fire,Terra
+2019-06-24,39.7443,45.1554,null,null,fire,Terra
+2019-06-25,40.2276,44.4519,null,null,fire,Aqua
+2019-06-27,40.0636,44.4166,null,null,fire,Aqua
+2019-06-29,40.2824,44.5891,null,null,fire,Aqua
+2019-06-29,40.2799,44.575,null,null,fire,Aqua
+2019-07-03,38.8718,46.1536,null,null,fire,Terra
+2019-07-03,38.8761,46.1589,null,null,fire,Aqua
+2019-07-06,40.1908,44.5808,null,null,fire,Aqua
+2019-07-07,40.1652,44.2351,null,null,fire,Aqua
+2019-07-08,40.241,44.3018,null,null,fire,Terra
+2019-07-08,40.3131,44.3291,null,null,fire,Aqua
+2019-07-08,40.2059,44.3114,null,null,fire,Aqua
+2019-07-10,40.2342,44.3897,null,null,fire,Terra
+2019-07-11,40.1015,44.4574,null,null,fire,Aqua
+2019-07-11,40.2605,44.5634,null,null,fire,Aqua
+2019-07-11,40.2589,44.5507,null,null,fire,Aqua
+2019-07-13,40.2107,44.5556,null,null,fire,Terra
+2019-07-13,40.1226,44.5791,null,null,fire,Aqua
+2019-07-13,40.1311,44.0301,null,null,fire,Aqua
+2019-07-15,40.1486,44.2047,null,null,fire,Aqua
+2019-07-15,39.6062,45.1688,null,null,fire,Terra
+2019-07-15,39.6162,45.1673,null,null,fire,Terra
+2019-07-17,39.86,44.6413,null,null,fire,Terra
+2019-07-18,40.2506,43.9721,null,null,fire,Aqua
+2019-07-19,40.1181,44.4545,null,null,fire,Terra
+2019-07-22,40.9601,44.553,null,null,fire,Aqua
+2019-07-24,39.9127,44.6312,null,null,fire,Terra
+2019-07-25,40.2878,44.5946,null,null,fire,Terra
+2019-07-25,40.2832,44.5917,null,null,fire,Terra
+2019-07-26,40.0988,44.2651,null,null,fire,Terra
+2019-07-30,39.4686,46.4911,null,null,fire,Aqua
+2019-07-30,39.476,46.4846,null,null,fire,Aqua
+2019-07-31,39.2858,46.4223,null,null,fire,Aqua
+2019-08-03,39.713,45.3036,null,null,fire,Terra
+2019-08-03,39.7025,45.3437,null,null,fire,Terra
+2019-08-03,39.7194,45.304,null,null,fire,Terra
+2019-08-03,39.7093,45.3435,null,null,fire,Terra
+2019-08-11,39.7994,44.7409,null,null,fire,Terra
+2019-08-11,39.7904,44.7389,null,null,fire,Terra
+2019-08-11,40.2809,44.4474,null,null,fire,Aqua
+2019-08-14,40.6329,43.7856,null,null,fire,Aqua
+2019-08-19,39.7723,44.7148,null,null,fire,Aqua
+2019-08-19,39.7739,44.7291,null,null,fire,Aqua
+2019-08-19,41.0514,45.1615,null,null,fire,Terra
+2019-08-20,39.2272,46.2,null,null,fire,Terra
+2019-08-20,39.2286,46.1834,null,null,fire,Aqua
+2019-08-20,39.2335,46.1888,null,null,fire,Aqua
+2019-08-20,39.23,46.1859,null,null,fire,Terra
+2019-08-20,40.3784,44.4373,null,null,fire,Terra
+2019-08-20,40.3877,44.4352,null,null,fire,Terra
+2019-08-20,40.3812,44.3956,null,null,fire,Terra
+2019-08-21,39.2234,46.188,null,null,fire,Aqua
+2019-08-22,40.8477,44.3662,null,null,fire,Terra
+2019-08-23,39.2649,46.4209,null,null,fire,Terra
+2019-08-23,39.2602,46.4137,null,null,fire,Terra
+2019-08-23,41.185,45.0998,null,null,fire,Aqua
+2019-08-23,40.0077,45.3336,null,null,fire,Aqua
+2019-08-23,41.1869,45.1117,null,null,fire,Aqua
+2019-08-23,39.2588,46.4091,null,null,fire,Aqua
+2019-08-23,39.2678,46.4069,null,null,fire,Aqua
+2019-08-23,39.9297,45.0167,null,null,fire,Aqua
+2019-08-23,39.9277,45.004,null,null,fire,Aqua
+2019-08-23,39.9338,44.9854,null,null,fire,Terra
+2019-08-23,39.9354,45.0017,null,null,fire,Terra
+2019-08-24,39.457,46.2957,null,null,fire,Terra
+2019-08-24,39.4514,46.2878,null,null,fire,Terra
+2019-08-24,39.253,46.4053,null,null,fire,Aqua
+2019-08-24,41.1942,45.0416,null,null,fire,Aqua
+2019-08-25,39.6082,45.6141,null,null,fire,Aqua
+2019-09-04,39.5184,45.4343,null,null,fire,Aqua
+2019-09-16,40.0105,44.3859,null,null,fire,Aqua
+2019-09-16,40.0135,44.3808,null,null,fire,Aqua
+2019-09-19,39.989,44.4868,null,null,fire,Terra
+2019-09-21,40.394,44.7667,null,null,fire,Terra
+2019-09-21,39.0609,46.2075,null,null,fire,Terra
+2019-09-21,39.0593,46.219,null,null,fire,Terra
+2019-09-21,39.052,46.2052,null,null,fire,Terra
+2019-09-21,39.0504,46.2168,null,null,fire,Terra
+2019-09-21,39.0471,46.2075,null,null,fire,Aqua
+2019-09-21,39.0605,46.205,null,null,fire,Aqua
+2019-09-21,39.0557,46.2007,null,null,fire,Aqua
+2019-09-22,40.6437,45.1964,null,null,fire,Aqua
+2019-09-22,40.6421,45.1845,null,null,fire,Aqua
+2019-09-24,40.1329,44.0776,null,null,fire,Terra
+2019-09-27,40.3841,44.7747,null,null,fire,Aqua
+2019-09-30,39.6253,46.0721,null,null,fire,Terra
+2019-10-01,40.0576,44.3433,null,null,fire,Terra
+2019-10-03,40.2431,44.5821,null,null,fire,Aqua
+2019-10-03,39.5773,46.0915,null,null,fire,Aqua
+2019-10-03,39.9269,45.1349,null,null,fire,Aqua
+2019-10-08,40.2799,44.5639,null,null,fire,Terra
+2019-10-08,40.0278,45.8533,null,null,fire,Aqua
+2019-10-08,40.0262,45.8408,null,null,fire,Aqua
+2019-10-08,40.0483,45.2982,null,null,fire,Aqua
+2019-10-10,39.8588,44.9284,null,null,fire,Aqua
+2019-10-11,39.9583,45.2108,null,null,fire,Aqua
+2019-10-11,39.9563,45.1827,null,null,fire,Aqua
+2019-10-11,39.9537,45.2037,null,null,fire,Aqua
+2019-10-15,40.0412,45.8495,null,null,fire,Terra
+2019-10-15,40.0399,45.8546,null,null,fire,Terra
+2019-10-15,40.0566,45.1402,null,null,fire,Aqua
+2019-10-15,40.0659,45.138,null,null,fire,Aqua
+2019-10-15,40.7225,44.4259,null,null,fire,Aqua
+2019-10-15,40.8739,44.4724,null,null,fire,Aqua
+2019-10-16,41.0542,44.1304,null,null,fire,Terra
+2019-10-16,41.0489,44.1229,null,null,fire,Terra
+2019-10-16,40.766,44.8534,null,null,fire,Terra
+2019-10-16,40.7563,44.3433,null,null,fire,Terra
+2019-10-17,41.0519,44.1103,null,null,fire,Terra
+2019-10-17,40.7508,44.4337,null,null,fire,Terra
+2019-10-17,40.759,44.3356,null,null,fire,Terra
+2019-10-17,40.7549,44.356,null,null,fire,Terra
+2019-10-17,40.7431,44.414,null,null,fire,Terra
+2019-10-17,40.7397,44.4307,null,null,fire,Terra
+2019-10-17,40.0744,44.3516,null,null,fire,Terra
+2019-10-17,40.0154,45.7747,null,null,fire,Aqua
+2019-10-17,40.0138,45.7632,null,null,fire,Aqua
+2019-10-17,40.0485,45.8145,null,null,fire,Aqua
+2019-10-17,40.7334,44.4272,null,null,fire,Aqua
+2019-10-17,40.7423,44.4251,null,null,fire,Aqua
+2019-10-17,40.7493,44.3502,null,null,fire,Aqua
+2019-10-17,40.7476,44.3387,null,null,fire,Aqua
+2019-10-17,40.7582,44.348,null,null,fire,Aqua
+2019-10-17,40.7564,44.3363,null,null,fire,Aqua
+2019-10-17,41.0456,44.1038,null,null,fire,Aqua
+2019-10-17,41.0334,43.7292,null,null,fire,Aqua
+2019-10-18,40.7865,44.3535,null,null,fire,Terra
+2019-10-18,40.7532,44.1354,null,null,fire,Terra
+2019-10-18,40.7519,44.129,null,null,fire,Terra
+2019-10-18,40.0324,45.3358,null,null,fire,Terra
+2019-10-18,40.0307,45.3548,null,null,fire,Terra
+2019-10-19,40.1045,43.9376,null,null,fire,Terra
+2019-10-19,40.0183,44.0366,null,null,fire,Terra
+2019-10-19,40.016,44.0497,null,null,fire,Terra
+2019-10-19,40.0158,45.3404,null,null,fire,Aqua
+2019-10-19,40.1977,44.5988,null,null,fire,Aqua
+2019-10-19,40.5907,45.1774,null,null,fire,Aqua
+2019-10-22,40.6801,45.26,null,null,fire,Aqua
+2019-10-23,40.0532,45.6431,null,null,fire,Terra
+2019-10-24,40.0258,44.4491,null,null,fire,Aqua
+2019-10-25,40.8567,44.4861,null,null,fire,Terra
+2019-10-25,40.8548,44.5062,null,null,fire,Terra
+2019-10-25,40.6446,44.9476,null,null,fire,Aqua
+2019-10-25,40.8614,44.4911,null,null,fire,Aqua
+2019-10-27,40.9436,44.0606,null,null,fire,Terra
+2019-10-27,40.9382,44.0534,null,null,fire,Terra
+2019-10-28,40.0724,45.6443,null,null,fire,Terra
+2019-10-28,40.0376,45.1928,null,null,fire,Terra
+2019-10-28,40.1033,45.734,null,null,fire,Aqua
+2019-10-29,40.2129,45.9743,null,null,fire,Aqua
+2019-10-29,40.2246,45.9731,null,null,fire,Aqua
+2019-10-29,40.2211,45.9668,null,null,fire,Aqua
+2019-10-29,40.8241,44.6099,null,null,fire,Aqua
+2019-10-29,40.7998,43.9828,null,null,fire,Aqua
+2019-10-31,40.0745,45.5395,null,null,fire,Aqua
+2019-10-31,40.2618,45.0499,null,null,fire,Aqua
+2019-10-31,40.4659,44.8245,null,null,fire,Aqua
+2019-10-31,40.8046,44.008,null,null,fire,Aqua
+2019-11-01,40.9142,44.2491,null,null,fire,Terra
+2019-11-01,40.904,44.2453,null,null,fire,Terra
+2019-11-01,40.9023,44.2616,null,null,fire,Terra
+2019-11-07,40.7979,44.2146,null,null,fire,Aqua
+2019-11-07,40.8924,43.971,null,null,fire,Aqua
+2019-11-08,40.7837,45.3821,null,null,fire,Terra
+2019-11-09,39.3884,46.0567,null,null,fire,Aqua
+2019-11-09,39.3869,46.0449,null,null,fire,Aqua
+2019-11-09,40.7704,45.3694,null,null,fire,Aqua
+2019-11-09,40.9516,44.0472,null,null,fire,Aqua
+2019-11-10,41.0595,44.0889,null,null,fire,Terra
+2019-11-10,40.7889,45.3938,null,null,fire,Terra
+2019-11-10,40.7846,45.3874,null,null,fire,Terra
+2019-11-10,40.7132,44.3979,null,null,fire,Terra
+2019-11-10,39.4638,45.9728,null,null,fire,Aqua
+2019-11-10,39.4489,45.9681,null,null,fire,Aqua
+2019-11-10,40.7864,44.6373,null,null,fire,Terra
+2019-11-11,39.5318,46.1583,null,null,fire,Terra
+2019-11-11,39.3931,46.0971,null,null,fire,Terra
+2019-11-11,40.7084,44.3833,null,null,fire,Aqua
+2019-11-11,39.5422,46.1353,null,null,fire,Aqua
+2019-11-11,40.2127,45.7392,null,null,fire,Aqua
+2019-11-11,40.7796,45.392,null,null,fire,Aqua
+2019-11-11,39.544,46.1472,null,null,fire,Aqua
+2019-11-11,39.5049,46.1935,null,null,fire,Aqua
+2019-11-11,39.528,46.1634,null,null,fire,Aqua
+2019-11-12,40.0835,45.8614,null,null,fire,Terra
+2019-11-12,40.7664,44.6653,null,null,fire,Terra
+2019-11-12,40.081,45.8525,null,null,fire,Terra
+2019-11-12,39.5505,46.1851,null,null,fire,Terra
+2019-11-12,39.5389,46.1793,null,null,fire,Terra
+2019-11-12,39.5368,46.2036,null,null,fire,Terra
+2019-11-12,40.0766,45.8747,null,null,fire,Aqua
+2019-11-12,40.0748,45.8465,null,null,fire,Aqua
+2019-11-12,40.0798,45.8692,null,null,fire,Aqua
+2019-11-12,40.0782,45.8413,null,null,fire,Aqua
+2019-11-13,40.0797,45.8876,null,null,fire,Terra
+2019-11-13,39.5354,46.2139,null,null,fire,Terra
+2019-11-13,39.5329,46.2279,null,null,fire,Terra
+2019-11-13,39.532,46.2102,null,null,fire,Aqua
+2019-11-14,39.5687,46.1639,null,null,fire,Aqua
+2019-11-14,40.2474,44.7751,null,null,fire,Aqua
+2019-11-14,40.2458,44.7587,null,null,fire,Aqua
+2019-11-15,40.7528,44.351,null,null,fire,Terra
+2019-11-15,40.5964,44.826,null,null,fire,Terra
+2019-11-15,40.2604,45.1812,null,null,fire,Terra
+2019-11-15,39.5619,46.1528,null,null,fire,Terra
+2019-11-15,39.5034,46.2336,null,null,fire,Terra
+2019-11-15,39.5642,46.1496,null,null,fire,Aqua
+2019-11-15,40.9236,44.163,null,null,fire,Aqua
+2019-11-15,40.9172,44.1346,null,null,fire,Aqua
+2019-11-16,40.9488,44.1467,null,null,fire,Terra
+2019-11-16,39.9314,45.2615,null,null,fire,Aqua
+2019-11-16,40.0884,45.899,null,null,fire,Aqua
+2019-11-16,40.0777,44.2191,null,null,fire,Aqua
+2019-11-16,40.3728,44.8402,null,null,fire,Aqua
+2019-11-16,40.3713,44.8276,null,null,fire,Aqua
+2019-11-16,40.9482,44.1389,null,null,fire,Aqua
+2019-11-16,40.9468,44.1271,null,null,fire,Aqua
+2019-11-17,40.9172,44.1875,null,null,fire,Aqua
+2019-11-18,40.5911,44.5099,null,null,fire,Terra
+2019-11-18,40.6161,45.3083,null,null,fire,Aqua
+2019-11-18,40.7463,44.0773,null,null,fire,Aqua
+2019-11-18,40.9157,44.2168,null,null,fire,Aqua
+2019-11-19,40.7639,44.4208,null,null,fire,Aqua
+2019-11-19,40.7623,44.3937,null,null,fire,Aqua
+2019-11-19,40.7659,44.416,null,null,fire,Aqua
+2019-11-19,40.8124,44.2265,null,null,fire,Aqua
+2019-11-20,40.8686,45.2183,null,null,fire,Terra
+2019-11-20,40.7737,44.4284,null,null,fire,Terra
+2019-11-20,40.7707,44.4219,null,null,fire,Terra
+2019-11-20,40.7683,44.4355,null,null,fire,Terra
+2019-11-20,40.7306,44.5948,null,null,fire,Terra
+2019-11-20,40.6633,44.6432,null,null,fire,Aqua
+2019-11-20,40.7676,44.4228,null,null,fire,Aqua
+2019-11-20,40.8738,44.0349,null,null,fire,Aqua
+2019-11-20,40.8882,44.0365,null,null,fire,Terra
+2019-11-25,40.4796,43.5772,null,null,fire,Terra
+2019-11-25,40.4751,43.5985,null,null,fire,Terra
+2019-11-25,40.4901,43.5754,null,null,fire,Aqua
+2019-11-25,40.4805,43.5714,null,null,fire,Aqua
+2019-12-20,41.1672,44.4656,null,null,fire,Terra
+2019-12-20,41.1634,44.4843,null,null,fire,Terra
+2019-12-20,41.1562,44.4628,null,null,fire,Terra
+2019-12-20,41.1605,44.4751,null,null,fire,Aqua
+2019-12-20,40.9674,44.7269,null,null,fire,Aqua
+2019-12-20,41.1517,44.4774,null,null,fire,Aqua
+2019-12-20,41.1499,44.4656,null,null,fire,Aqua
+2019-12-20,41.1588,44.4632,null,null,fire,Aqua
+2019-12-21,40.9967,44.2458,null,null,fire,Terra
+2019-12-21,41.0082,44.2415,null,null,fire,Terra
+2019-12-22,41.1737,44.484,null,null,fire,Terra
+2019-12-22,41.1713,44.4978,null,null,fire,Terra
+2019-12-22,41.1621,44.494,null,null,fire,Terra
+2019-12-22,41.1597,44.5078,null,null,fire,Terra
+2019-12-22,41.0992,44.094,null,null,fire,Terra
+2019-12-22,41.1705,44.4828,null,null,fire,Aqua
+2019-12-22,40.8201,44.2014,null,null,fire,Aqua
+2019-12-22,41.1633,44.4996,null,null,fire,Aqua
+2019-12-22,41.0912,44.0974,null,null,fire,Aqua
+2019-12-22,41.1728,44.4961,null,null,fire,Aqua
+2019-12-24,40.8769,44.6001,null,null,fire,Terra
+2019-12-24,40.8681,44.5978,null,null,fire,Terra
+2019-12-24,40.8655,45.2235,null,null,fire,Terra
+2019-12-24,40.8636,45.2352,null,null,fire,Terra
+2019-12-24,41.0964,44.7968,null,null,fire,Aqua
+2019-12-24,40.8732,44.5946,null,null,fire,Terra
+2019-12-24,41.0382,44.2392,null,null,fire,Aqua
+2019-12-24,41.0359,44.2524,null,null,fire,Aqua
+2019-12-24,41.0336,44.2657,null,null,fire,Aqua
+2019-12-24,41.0245,44.319,null,null,fire,Aqua
+2019-12-24,41.0222,44.3324,null,null,fire,Aqua
+2019-12-24,40.8741,44.5941,null,null,fire,Aqua
+2019-12-24,40.8718,44.607,null,null,fire,Aqua
+2019-12-24,41.04,44.2592,null,null,fire,Aqua
+2019-12-24,41.0516,44.2492,null,null,fire,Aqua
+2019-12-24,41.0493,44.2624,null,null,fire,Aqua
+2019-12-24,41.0446,44.2329,null,null,fire,Aqua
+2019-12-24,41.0423,44.2461,null,null,fire,Aqua
+2019-12-24,41.026,44.3391,null,null,fire,Aqua
+2019-12-26,41.177,44.5309,null,null,fire,Terra
+2019-12-28,41.1699,44.5272,null,null,fire,Terra
+2020-01-07,40.8283,44.5238,null,null,fire,Aqua
+2020-01-14,41.0939,44.3096,null,null,fire,Terra
+2020-01-14,40.697,45.2094,null,null,fire,Aqua
+2020-01-14,40.8875,45.0038,null,null,fire,Aqua
+2020-01-14,40.8855,44.9916,null,null,fire,Aqua
+2020-02-06,39.2557,46.3793,null,null,fire,Aqua
+2020-02-06,41.1212,44.6579,null,null,fire,Terra
+2020-02-06,41.1228,44.6774,null,null,fire,Terra
+2020-02-07,41.0858,44.8824,null,null,fire,Terra
+2020-02-07,40.0499,44.0383,null,null,fire,Aqua
+2020-02-07,40.048,44.0082,null,null,fire,Aqua
+2020-02-24,40.8274,45.181,null,null,fire,Terra
+2020-02-24,40.8249,45.1948,null,null,fire,Terra
+2020-02-24,40.8253,45.1886,null,null,fire,Aqua
+2020-02-24,40.8229,45.1747,null,null,fire,Aqua
+2020-02-27,41.162,44.2579,null,null,fire,Aqua
+2020-02-28,41.0382,45.1159,null,null,fire,Terra
+2020-03-03,40.0413,44.3191,null,null,fire,Aqua
+2020-03-03,40.0433,44.3364,null,null,fire,Aqua
+2020-03-03,40.1188,44.481,null,null,fire,Aqua
+2020-03-04,40.0623,44.429,null,null,fire,Terra
+2020-03-04,40.3247,43.7315,null,null,fire,Aqua
+2020-03-05,40.0413,44.5895,null,null,fire,Aqua
+2020-03-05,40.3314,43.7449,null,null,fire,Aqua
+2020-03-05,40.3298,43.7292,null,null,fire,Aqua
+2020-03-05,40.9277,44.6186,null,null,fire,Aqua
+2020-03-05,40.9319,44.6291,null,null,fire,Aqua
+2020-03-08,38.9627,46.2158,null,null,fire,Terra
+2020-03-09,40.0742,43.8411,null,null,fire,Aqua
+2020-03-09,40.9922,44.3929,null,null,fire,Aqua
+2020-03-11,40.0729,44.5801,null,null,fire,Terra
+2020-03-11,40.069,44.3753,null,null,fire,Terra
+2020-03-11,41.0226,44.7945,null,null,fire,Aqua
+2020-03-11,41.0322,44.7916,null,null,fire,Aqua
+2020-03-12,39.7276,44.842,null,null,fire,Terra
+2020-03-12,39.4402,46.0219,null,null,fire,Aqua
+2020-03-12,39.4385,46.0165,null,null,fire,Aqua
+2020-03-12,40.0525,44.0651,null,null,fire,Aqua
+2020-03-13,40.3033,44.3004,null,null,fire,Terra
+2020-03-13,40.3015,44.312,null,null,fire,Terra
+2020-03-24,40.0614,44.5617,null,null,fire,Terra
+2020-04-15,40.955,44.8323,null,null,fire,Terra
+2020-04-15,40.9574,44.8263,null,null,fire,Terra
+2020-04-20,40.0949,45.684,null,null,fire,Aqua
+2020-05-12,40.0612,44.4193,null,null,fire,Aqua
+2020-05-14,40.0871,44.2322,null,null,fire,Aqua
+2020-05-16,40.0897,44.2449,null,null,fire,Terra
+2020-05-16,40.0854,45.7048,null,null,fire,Aqua
+2020-05-28,40.0605,44.4149,null,null,fire,Aqua
+2020-06-06,40.0276,44.4954,null,null,fire,Aqua
+2020-06-08,40.1794,44.5705,null,null,fire,Terra
+2020-06-08,40.064,44.4195,null,null,fire,Terra
+2020-06-13,40.0674,44.4166,null,null,fire,Aqua
+2020-06-22,40.0294,44.4983,null,null,fire,Aqua
+2020-06-22,40.0273,44.4856,null,null,fire,Aqua
+2020-06-29,40.0606,44.4167,null,null,fire,Aqua
+2020-07-15,40.0653,44.4151,null,null,fire,Aqua
+2020-07-19,40.087,44.2446,null,null,fire,Terra
+2020-07-23,40.0899,44.4252,null,null,fire,Terra
+2020-07-26,40.5459,44.9579,null,null,fire,Terra
+2020-07-30,40.1573,44.2082,null,null,fire,Terra
+2020-07-30,40.1545,44.1931,null,null,fire,Terra
+2020-08-02,40.0817,44.2409,null,null,fire,Aqua
+2020-08-02,40.0917,44.2378,null,null,fire,Aqua
+2020-08-11,40.4103,44.4083,null,null,fire,Terra
+2020-08-11,40.1732,44.4341,null,null,fire,Terra
+2020-09-08,40.5099,43.7524,null,null,fire,Aqua
+2020-09-08,40.5187,43.7501,null,null,fire,Aqua
+2020-09-28,40.6909,45.1532,null,null,fire,Terra
+2020-10-16,40.4426,44.8847,null,null,fire,Terra
+2020-10-17,40.9208,44.1499,null,null,fire,Terra
+2020-10-17,40.9146,44.1767,null,null,fire,Terra
+2020-10-17,40.9063,44.1544,null,null,fire,Aqua
+2020-10-23,40.0115,44.0282,null,null,fire,Terra
+2020-10-26,40.3948,44.7355,null,null,fire,Terra
+2020-10-26,39.7728,45.0866,null,null,fire,Aqua
+2020-10-26,39.8853,44.6287,null,null,fire,Aqua
+2020-10-26,40.3976,44.7418,null,null,fire,Aqua
+2020-10-26,40.396,44.7302,null,null,fire,Aqua
+2020-10-26,40.7261,44.3838,null,null,fire,Aqua
+2020-10-28,40.2102,45.9797,null,null,fire,Aqua
+2020-10-29,40.4597,44.8215,null,null,fire,Aqua
+2020-10-29,39.8062,44.8896,null,null,fire,Aqua
+2020-10-29,40.4615,44.8477,null,null,fire,Aqua
+2020-10-30,40.4599,44.8664,null,null,fire,Terra
+2020-10-30,40.4619,44.8542,null,null,fire,Terra
+2020-10-30,40.4541,44.8584,null,null,fire,Terra
+2020-10-30,40.4178,44.7329,null,null,fire,Terra
+2020-10-30,40.0603,45.6239,null,null,fire,Terra
+2020-10-30,40.051,45.6207,null,null,fire,Terra
+2020-10-30,39.3329,46.4423,null,null,fire,Aqua
+2020-10-30,40.3743,44.7276,null,null,fire,Aqua
+2020-10-30,40.5097,44.8338,null,null,fire,Aqua
+2020-10-30,40.463,44.1636,null,null,fire,Aqua
+2020-10-30,40.4596,44.1462,null,null,fire,Aqua
+2020-11-01,40.8574,45.5451,null,null,fire,Terra
+2020-11-01,39.3429,46.4537,null,null,fire,Terra
+2020-11-01,40.408,44.8077,null,null,fire,Terra
+2020-11-01,39.3413,46.4426,null,null,fire,Aqua
+2020-11-01,40.7508,45.4216,null,null,fire,Aqua
+2020-11-01,39.3307,46.4595,null,null,fire,Terra
+2020-11-01,40.6995,45.373,null,null,fire,Terra
+2020-11-01,40.7519,45.4293,null,null,fire,Aqua
+2020-11-03,40.8121,45.4133,null,null,fire,Terra
+2020-11-11,40.1236,44.2691,null,null,fire,Aqua
+2020-11-13,40.4893,44.8885,null,null,fire,Aqua
+2020-11-13,40.4874,44.8764,null,null,fire,Aqua
+2020-11-18,39.7814,45.1834,null,null,fire,Aqua
+2020-11-18,39.7863,45.1897,null,null,fire,Aqua
+2020-11-24,39.6985,45.4323,null,null,fire,Terra
+2020-11-27,40.7696,44.2105,null,null,fire,Terra
+2021-01-10,39.2318,46.3066,null,null,fire,Aqua
+2021-01-11,39.1057,46.4628,null,null,fire,Aqua
+2021-02-05,40.6954,45.1972,null,null,fire,Aqua
+2021-02-05,40.6925,45.2054,null,null,fire,Aqua
+2021-02-06,40.8923,44.406,null,null,fire,Aqua
+2021-02-08,40.1598,43.9957,null,null,fire,Aqua
+2021-02-11,40.0699,44.1374,null,null,fire,Aqua
+2021-02-11,40.9912,44.7189,null,null,fire,Aqua
+2021-02-11,40.048,44.2823,null,null,fire,Aqua
+2021-02-11,40.068,44.1306,null,null,fire,Aqua
+2021-02-12,40.17,44.21,null,null,fire,Terra
+2021-02-12,39.1027,46.4538,null,null,fire,Aqua
+2021-02-12,39.221,46.5842,null,null,fire,Aqua
+2021-02-12,41.2414,44.8868,null,null,fire,Aqua
+2021-02-12,39.5626,46.2986,null,null,fire,Aqua
+2021-02-13,39.4722,46.4312,null,null,fire,Aqua
+2021-02-15,40.0174,44.4443,null,null,fire,Aqua
+2021-02-15,40.0263,44.4422,null,null,fire,Aqua
+2021-02-15,40.8944,45.1417,null,null,fire,Aqua
+2021-02-22,40.1631,43.79,null,null,fire,Aqua
+2021-02-24,40.0437,44.1555,null,null,fire,Terra
+2021-02-24,40.0945,44.2574,null,null,fire,Aqua
+2021-02-24,40.0474,44.4965,null,null,fire,Aqua
+2021-02-26,40.0572,44.0131,null,null,fire,Terra
+2021-02-26,40.0529,44.5678,null,null,fire,Terra
+2021-02-26,40.0982,44.1422,null,null,fire,Terra
+2021-02-26,40.0989,44.1382,null,null,fire,Aqua
+2021-02-26,40.0889,44.1414,null,null,fire,Aqua
+2021-02-28,40.2693,44.2774,null,null,fire,Terra
+2021-02-28,40.0782,44.5648,null,null,fire,Terra
+2021-03-04,39.8662,44.6479,null,null,fire,Terra
+2021-03-04,40.1462,43.9207,null,null,fire,Aqua
+2021-03-05,40.0774,43.9472,null,null,fire,Terra
+2021-03-05,40.0548,44.3202,null,null,fire,Aqua
+2021-03-05,39.8724,44.6035,null,null,fire,Aqua
+2021-03-05,39.8703,44.5909,null,null,fire,Aqua
+2021-03-05,39.8767,44.5971,null,null,fire,Aqua
+2021-03-05,40.0209,43.9467,null,null,fire,Aqua
+2021-03-05,40.0126,44.445,null,null,fire,Aqua
+2021-03-05,40.0492,44.4024,null,null,fire,Aqua
+2021-03-05,40.0471,44.3897,null,null,fire,Aqua
+2021-03-05,40.0527,44.3074,null,null,fire,Aqua
+2021-03-05,40.0737,43.8827,null,null,fire,Aqua
+2021-03-05,40.0357,44.1493,null,null,fire,Aqua
+2021-03-10,39.959,44.5269,null,null,fire,Aqua
+2021-03-10,40.0928,44.1318,null,null,fire,Aqua
+2021-03-30,40.0656,44.3954,null,null,fire,Terra
+2021-03-30,40.106,44.303,null,null,fire,Aqua
+2021-03-31,40.0194,44.3913,null,null,fire,Aqua
+2021-03-31,40.0211,44.4118,null,null,fire,Aqua
+2021-04-01,40.0969,44.1819,null,null,fire,Terra
+2021-04-01,40.1358,44.1676,null,null,fire,Terra
+2021-04-07,40.092,44.1147,null,null,fire,Terra
+2021-04-08,40.5711,44.7674,null,null,fire,Terra
+2021-04-17,40.4782,44.717,null,null,fire,Terra
+2021-05-01,39.9497,44.5545,null,null,fire,Terra
+2021-05-08,39.9011,44.5578,null,null,fire,Aqua
+2021-05-10,40.1847,44.438,null,null,fire,Terra
+2021-05-10,40.4014,44.6421,null,null,fire,Terra
+2021-05-12,40.6874,43.7506,null,null,fire,Terra
+2021-05-14,40.6825,43.7581,null,null,fire,Aqua
+2021-05-19,40.0881,44.2432,null,null,fire,Terra
+2021-05-26,40.1796,44.5782,null,null,fire,Terra
+2021-05-26,40.0668,44.4217,null,null,fire,Terra
+2021-05-31,40.0633,44.4113,null,null,fire,Aqua
+2021-05-31,40.2734,44.6365,null,null,fire,Aqua
+2021-06-08,40.1094,44.5503,null,null,fire,Terra
+2021-06-09,40.0289,44.4908,null,null,fire,Aqua
+2021-06-14,40.2576,44.6493,null,null,fire,Terra
+2021-06-23,39.7797,45.0731,null,null,fire,Aqua
+2021-06-23,39.7813,45.0848,null,null,fire,Aqua
+2021-06-25,40.029,44.4958,null,null,fire,Aqua
+2021-06-28,41.0238,45.2064,null,null,fire,Terra
+2021-07-01,41.2318,44.9726,null,null,fire,Aqua
+2021-07-01,41.2314,44.9686,null,null,fire,Aqua
+2021-07-04,39.8001,44.7115,null,null,fire,Terra
+2021-07-04,39.7904,44.7086,null,null,fire,Terra
+2021-07-04,39.9536,44.5442,null,null,fire,Terra
+2021-07-04,39.8026,44.6975,null,null,fire,Terra
+2021-07-06,40.0896,44.244,null,null,fire,Terra
+2021-07-06,40.0958,44.449,null,null,fire,Terra
+2021-07-06,41.1222,45.1848,null,null,fire,Terra
+2021-07-06,41.1328,45.195,null,null,fire,Terra
+2021-07-06,41.1419,45.1928,null,null,fire,Terra
+2021-07-11,39.8813,44.6304,null,null,fire,Aqua
+2021-07-18,40.3776,45.529,null,null,fire,Terra
+2021-07-18,40.2707,44.6432,null,null,fire,Aqua
+2021-07-20,39.9545,44.5484,null,null,fire,Terra
+2021-07-20,40.0713,44.4164,null,null,fire,Terra
+2021-07-21,39.621,45.2352,null,null,fire,Aqua
+2021-07-21,39.6237,45.23,null,null,fire,Aqua
+2021-07-22,40.0875,44.2437,null,null,fire,Terra
+2021-07-25,39.8678,44.6347,null,null,fire,Aqua
+2021-07-25,39.8662,44.6231,null,null,fire,Aqua
+2021-07-31,40.7764,43.9085,null,null,fire,Terra
+2021-08-02,40.1556,44.2759,null,null,fire,Terra
+2021-08-03,40.9817,44.4829,null,null,fire,Aqua
+2021-08-03,40.98,44.4711,null,null,fire,Aqua
+2021-08-05,40.0864,44.2308,null,null,fire,Aqua
+2021-08-13,39.6287,45.1792,null,null,fire,Aqua
+2021-08-14,40.1747,44.4303,null,null,fire,Terra
+2021-08-19,40.4592,44.8065,null,null,fire,Aqua
+2021-08-19,40.1887,44.4518,null,null,fire,Terra
+2021-08-28,40.043,45.8579,null,null,fire,Terra
+2021-08-28,40.2306,45.8825,null,null,fire,Aqua
+2021-08-30,40.0844,44.2155,null,null,fire,Terra
+2021-08-30,40.1933,45.9437,null,null,fire,Aqua
+2021-09-01,39.5856,46.1202,null,null,fire,Terra
+2021-09-03,40.117,44.4948,null,null,fire,Terra
+2021-09-04,40.577,44.4768,null,null,fire,Aqua
+2021-09-04,40.5788,44.4886,null,null,fire,Aqua
+2021-09-06,40.0559,44.5292,null,null,fire,Terra
+2021-09-11,40.8881,45.5026,null,null,fire,Aqua
+2021-09-11,40.8898,45.5155,null,null,fire,Aqua
+2021-09-15,38.94,46.2567,null,null,fire,Terra
+2021-09-15,38.943,46.2632,null,null,fire,Terra
+2021-09-17,38.938,46.2575,null,null,fire,Aqua
+2021-09-17,38.9424,46.2491,null,null,fire,Aqua
+2021-09-17,38.9474,46.2725,null,null,fire,Aqua
+2021-09-18,38.9396,46.262,null,null,fire,Aqua
+2021-09-18,38.9493,46.2596,null,null,fire,Aqua
+2021-09-20,38.9549,46.2581,null,null,fire,Aqua
+2021-09-21,38.9663,46.2574,null,null,fire,Terra
+2021-09-21,38.9645,46.275,null,null,fire,Terra
+2021-09-21,38.9692,46.2498,null,null,fire,Aqua
+2021-09-21,38.9711,46.2897,null,null,fire,Aqua
+2021-09-21,38.9537,46.2556,null,null,fire,Aqua
+2021-09-21,38.958,46.261,null,null,fire,Aqua
+2021-09-21,38.9604,46.3047,null,null,fire,Aqua
+2021-09-22,38.9543,46.2705,null,null,fire,Terra
+2021-09-22,38.938,46.2454,null,null,fire,Aqua
+2021-09-22,38.9636,46.2466,null,null,fire,Aqua
+2021-09-22,38.9659,46.26,null,null,fire,Aqua
+2021-09-22,38.9589,46.2547,null,null,fire,Aqua
+2021-09-22,38.9495,46.2565,null,null,fire,Aqua
+2021-09-22,38.9402,46.2588,null,null,fire,Aqua
+2021-09-24,39.3507,46.1206,null,null,fire,Terra
+2021-09-24,39.3597,46.1243,null,null,fire,Terra
+2021-09-24,39.3486,46.1336,null,null,fire,Terra
+2021-09-24,39.3576,46.1367,null,null,fire,Terra
+2021-09-26,40.0887,44.2648,null,null,fire,Terra
+2021-09-27,40.0274,45.8287,null,null,fire,Aqua
+2021-10-04,39.7803,45.7379,null,null,fire,Terra
+2021-10-14,40.4971,45.4286,null,null,fire,Terra
+2021-10-22,40.7921,44.1334,null,null,fire,Aqua
+2021-10-23,39.8583,45.0562,null,null,fire,Terra
+2021-10-23,39.8632,45.0502,null,null,fire,Terra
+2021-10-23,39.8611,45.0729,null,null,fire,Terra
+2021-10-24,40.81,44.4371,null,null,fire,Aqua
+2021-10-24,39.5878,45.8968,null,null,fire,Aqua
+2021-10-24,39.5899,45.909,null,null,fire,Aqua
+2021-10-24,40.8104,44.4306,null,null,fire,Aqua
+2021-10-26,39.8948,44.5826,null,null,fire,Terra
+2021-11-16,40.0089,44.4412,null,null,fire,Aqua
+2021-11-18,40.3191,43.8246,null,null,fire,Terra
+2021-11-21,39.948,44.5157,null,null,fire,Aqua
+2021-11-21,39.9496,44.5281,null,null,fire,Aqua
+2021-11-23,40.7498,44.4134,null,null,fire,Aqua
+2021-11-29,40.8477,44.5007,null,null,fire,Terra
+2021-12-04,40.2872,44.056,null,null,fire,Terra
+2021-12-04,40.2892,44.0441,null,null,fire,Terra
+2022-04-16,38.501,44.672,null,null,lightening,null
+2022-04-16,39.801,44.23,null,null,lightening,null
+2022-04-16,40.966,44.6,null,null,lightening,null
+2022-04-28,41.024,44.732,null,null,lightening,null
+2022-04-28,40.963,44.602,null,null,lightening,null
+2022-04-28,40.97,44.617,null,null,lightening,null
+2022-04-28,40.936,44.663,null,null,lightening,null
+2022-05-15,40.971,44.645,null,null,lightening,null
+2022-05-15,40.978,44.638,null,null,lightening,null
+2022-05-19,40.972,44.688,null,null,lightening,null
+2022-05-19,38.969,45.99,null,null,lightening,null
+2022-05-19,39.569,45.946,null,null,lightening,null
+2022-05-19,39.616,45.897,null,null,lightening,null
+2022-05-19,41.263,44.683,null,null,lightening,null
+2022-05-19,41.268,44.637,null,null,lightening,null
+2022-05-19,41.281,44.659,null,null,lightening,null
+2022-05-19,41.27,44.667,null,null,lightening,null
+2022-05-19,41.368,46.74,null,null,lightening,null
+2022-05-24,41.175,46.705,null,null,lightening,null
+2022-05-25,40.313,43.257,null,null,lightening,null
+2022-05-25,40.077,46.695,null,null,lightening,null
+2022-05-25,40.085,46.67,null,null,lightening,null
+2022-05-29,39.744,46.393,null,null,lightening,null
+2022-05-29,40.079,46.716,null,null,lightening,null
+2022-05-29,39.721,46.399,null,null,lightening,null
+2022-05-29,40.08,46.715,null,null,lightening,null
+2022-05-29,39.729,46.415,null,null,lightening,null
+2022-05-29,39.946,46.695,null,null,lightening,null
+2022-05-29,40.104,46.717,null,null,lightening,null
+2022-05-29,39.713,46.426,null,null,lightening,null
+2022-05-29,38.618,44.394,null,null,lightening,null
+2022-05-29,38.635,44.387,null,null,lightening,null
+2022-05-29,38.7,44.376,null,null,lightening,null
+2022-05-29,39.726,43.861,null,null,lightening,null
+2022-05-29,40.159,44.986,null,null,lightening,null
+2022-05-29,39.44,43.274,null,null,lightening,null
+2022-05-29,40.176,45.029,null,null,lightening,null
+2022-05-29,38.522,46.319,null,null,lightening,null
+2022-05-29,38.837,46.696,null,null,lightening,null
+2022-05-29,40.636,46.168,null,null,lightening,null
+2022-05-29,40.532,46.197,null,null,lightening,null
+2022-05-29,40.126,46.394,null,null,lightening,null
+2022-05-29,40.237,44.155,null,null,lightening,null
+2022-05-29,40.685,45.98,null,null,lightening,null
+2022-05-29,40.618,45.918,null,null,lightening,null
+2022-05-29,40.101,46.294,null,null,lightening,null
+2022-05-29,40.978,46.018,null,null,lightening,null
+2022-05-29,40.953,45.948,null,null,lightening,null
+2022-05-29,40.605,46.128,null,null,lightening,null
+2022-05-29,40.122,46.39,null,null,lightening,null
+2022-05-29,40.08,46.268,null,null,lightening,null
+2022-05-29,40.038,46.658,null,null,lightening,null
+2022-05-29,41.28,45.689,null,null,lightening,null
+2022-04-16,41.217,44.564,null,null,lightening,null
+2022-04-16,41.21,44.559,null,null,lightening,null
+2022-04-16,39.609,44.51,null,null,lightening,null
+2022-04-28,38.835,44.793,null,null,lightening,null
+2022-04-28,41.006,43.291,null,null,lightening,null
+2022-04-28,39.52,44.502,null,null,lightening,null
+2022-04-28,38.812,44.917,null,null,lightening,null
+2022-05-15,39.169,46.136,null,null,lightening,null
+2022-05-15,39.54,44.539,null,null,lightening,null
+2022-05-19,38.819,44.844,null,null,lightening,null
+2022-05-19,39.543,44.514,null,null,lightening,null
+2022-05-19,39.562,44.608,null,null,lightening,null
+2022-05-19,41.479,43.845,null,null,lightening,null
+2022-05-19,40.55,45.586,null,null,lightening,null
+2022-05-19,39.642,44.619,null,null,lightening,null
+2022-05-19,39.653,44.542,null,null,lightening,null
+2022-05-19,40.639,43.372,null,null,lightening,null
+2022-05-19,39.175,46.125,null,null,lightening,null
+2022-05-24,41.001,43.298,null,null,lightening,null
+2022-05-25,40.517,45.521,null,null,lightening,null
+2022-05-25,40.551,45.622,null,null,lightening,null
+2022-05-25,40.6,45.668,null,null,lightening,null
+2022-05-29,39.548,44.547,null,null,lightening,null
+2022-05-29,38.89,44.775,null,null,lightening,null
+2022-05-29,40.518,45.59,null,null,lightening,null
+2022-05-29,39.523,44.547,null,null,lightening,null
+2022-05-29,39.592,44.554,null,null,lightening,null
+2022-05-29,40.691,43.495,null,null,lightening,null
+2022-05-29,39.501,44.493,null,null,lightening,null
+2022-05-29,38.832,44.832,null,null,lightening,null
+2022-05-29,39.627,44.534,null,null,lightening,null
+2022-05-29,39.504,44.528,null,null,lightening,null
+2022-05-29,40.625,45.586,null,null,lightening,null
+2022-05-29,38.829,45.003,null,null,lightening,null
+2022-05-29,39.484,44.553,null,null,lightening,null
+2022-05-29,39.178,46.131,null,null,lightening,null
+2022-05-29,39.191,46.173,null,null,lightening,null
+2022-05-29,41.018,43.31,null,null,lightening,null
+2022-05-29,38.797,44.83,null,null,lightening,null
+2022-05-29,39.504,44.525,null,null,lightening,null
+2022-05-29,39.597,44.573,null,null,lightening,null
+2022-05-29,39.519,44.561,null,null,lightening,null
+2022-05-29,40.556,45.619,null,null,lightening,null
+2022-05-29,39.523,44.648,null,null,lightening,null
+2022-05-29,39.734,44.025,null,null,lightening,null
+2022-05-29,40.691,43.436,null,null,lightening,null
+2022-05-29,39.577,44.451,null,null,lightening,null
+2022-05-29,40.463,45.596,null,null,lightening,null
+2022-05-29,40.541,45.344,null,null,lightening,null
+2022-05-29,40.592,45.303,null,null,lightening,null
+2022-05-29,39.085,46.028,null,null,lightening,null
+2022-05-29,38.56,46.436,null,null,lightening,null
+2022-05-29,38.952,44.262,null,null,lightening,null
+2022-06-06,40.306,46.461,null,null,lightening,null
+2022-06-07,39.552,45.887,null,null,lightening,null
+2022-06-08,40.285,46.481,null,null,lightening,null
+2022-06-09,40.282,46.462,null,null,lightening,null
+2022-06-10,38.709,46.023,null,null,lightening,null
+2022-06-11,40.263,46.429,null,null,lightening,null
+2022-06-12,39.639,45.975,null,null,lightening,null
+2022-06-13,40.282,46.436,null,null,lightening,null
+2022-06-14,39.663,46.031,null,null,lightening,null
+2022-06-15,40.302,46.45,null,null,lightening,null
+2022-06-16,39.627,45.916,null,null,lightening,null
+2022-06-17,39.616,45.845,null,null,lightening,null
+2022-06-18,38.746,44.97,null,null,lightening,null
+2022-06-19,38.616,45.088,null,null,lightening,null
+2022-06-20,41.313,43.56,null,null,lightening,null
+2022-06-21,41.263,43.559,null,null,lightening,null
+2022-06-22,40.764,44.244,null,null,lightening,null
+2022-06-23,39.463,43.4,null,null,lightening,null
+2022-06-24,39.527,43.848,null,null,lightening,null
+2022-06-25,40.512,43.298,null,null,lightening,null
+2022-06-26,39.356,44.282,null,null,lightening,null
+2022-06-27,39.083,44.246,null,null,lightening,null
+2022-06-28,40.97,44.423,null,null,lightening,null
+2022-06-29,40.903,43.288,null,null,lightening,null
+2022-06-30,39.55,43.754,null,null,lightening,null
+2022-07-01,40.646,44.676,null,null,lightening,null
+2022-07-02,41.054,44.177,null,null,lightening,null
+2022-07-03,41.006,44.236,null,null,lightening,null
+2022-07-04,39.511,44.006,null,null,lightening,null
+2022-07-05,41.017,44.259,null,null,lightening,null
+2022-06-02,39.125,44.278,null,null,lightening,null
+2022-06-03,40.538,43.283,null,null,lightening,null
+2022-06-04,40.783,43.319,null,null,lightening,null
+2022-06-05,40.711,45.293,null,null,lightening,null
+2022-06-06,40.956,44.23,null,null,lightening,null
+2022-06-07,40.975,44.375,null,null,lightening,null
+2022-06-08,41.132,44.519,null,null,lightening,null
+2022-06-09,41.209,44.33,null,null,lightening,null
+2022-06-10,40.624,44.262,null,null,lightening,null
+2022-06-11,41.288,44.423,null,null,lightening,null
+2022-06-12,41.032,44.262,null,null,lightening,null
+2022-06-13,40.522,43.319,null,null,lightening,null
+2022-06-14,41.041,44.372,null,null,lightening,null
+2022-06-15,41.006,44.215,null,null,lightening,null
+2022-06-16,41.257,44.338,null,null,lightening,null
+2022-06-17,39.443,43.407,null,null,lightening,null
+2022-06-18,41.058,44.278,null,null,lightening,null
+2022-06-19,40.943,44.713,null,null,lightening,null
+2022-06-20,41.016,44.229,null,null,lightening,null
+2022-06-21,40.986,44.304,null,null,lightening,null
+2022-06-22,39.047,44.431,null,null,lightening,null
+2022-06-23,40.649,45.284,null,null,lightening,null
+2022-06-24,40.752,43.279,null,null,lightening,null
+2022-06-25,39.387,44.29,null,null,lightening,null
+2022-06-26,40.976,44.742,null,null,lightening,null
+2022-06-27,40.985,44.276,null,null,lightening,null
+2022-06-28,40.511,43.284,null,null,lightening,null
+2022-06-29,39.128,44.402,null,null,lightening,null
+2022-06-30,41.07,44.245,null,null,lightening,null
+2022-07-01,40.649,44.684,null,null,lightening,null
+2022-07-02,41.1,44.49,null,null,lightening,null
+2022-07-03,41.015,44.259,null,null,lightening,null
+2022-07-04,40.539,43.307,null,null,lightening,null
+2022-07-05,40.983,44.294,null,null,lightening,null
+2022-07-06,40.903,43.305,null,null,lightening,null
+2022-07-07,40.973,44.442,null,null,lightening,null
+2022-07-08,40.98,44.229,null,null,lightening,null
+2022-07-09,39.374,44.196,null,null,lightening,null
+2022-07-10,40.976,44.297,null,null,lightening,null
+2022-07-11,41.273,44.402,null,null,lightening,null
+2022-07-12,41.033,44.264,null,null,lightening,null
+2022-07-13,41.018,44.402,null,null,lightening,null
+2022-07-14,38.99,44.436,null,null,lightening,null
+2022-07-15,40.504,43.307,null,null,lightening,null
+2022-07-16,39.86,46.107,null,null,lightening,null
+2022-07-17,41.043,44.25,null,null,lightening,null
+2022-07-18,40.989,44.291,null,null,lightening,null
+2022-07-19,39.067,44.446,null,null,lightening,null
+2022-07-20,41.119,43.393,null,null,lightening,null
+2022-07-21,39.37,44.348,null,null,lightening,null
+2022-07-22,40.513,43.288,null,null,lightening,null
+2022-07-23,40.965,44.217,null,null,lightening,null
+2022-07-24,40.986,44.287,null,null,lightening,null
+2022-07-25,41.018,44.428,null,null,lightening,null
+2022-07-26,40.667,44.72,null,null,lightening,null
+2022-07-27,40.96,44.721,null,null,lightening,null
+2022-07-28,41.223,44.306,null,null,lightening,null
+2022-07-29,40.714,45.328,null,null,lightening,null
+2022-07-30,41.283,44.426,null,null,lightening,null
+2022-07-31,41.018,44.283,null,null,lightening,null
+2022-08-01,40.453,43.258,null,null,lightening,null
+2022-08-02,41.08,44.559,null,null,lightening,null
+2022-08-03,39.073,44.468,null,null,lightening,null
+2022-08-04,40.876,43.31,null,null,lightening,null
+2022-08-05,39.418,43.451,null,null,lightening,null
+2022-08-06,40.653,44.701,null,null,lightening,null
+2022-08-07,39.461,44.029,null,null,lightening,null
+2022-08-08,40.982,44.203,null,null,lightening,null
+2022-08-09,41.054,44.256,null,null,lightening,null
+2022-08-10,39.858,46.122,null,null,lightening,null
+2022-08-11,40.991,44.253,null,null,lightening,null
+2022-08-12,41.033,44.213,null,null,lightening,null
+2022-08-13,40.983,44.317,null,null,lightening,null
+2022-08-14,40.979,44.481,null,null,lightening,null
+2022-08-15,40.962,44.406,null,null,lightening,null
+2022-08-16,40.937,44.729,null,null,lightening,null
+2022-08-17,41.272,44.374,null,null,lightening,null
+2022-08-18,40.988,44.182,null,null,lightening,null
+2022-08-19,40.565,44.35,null,null,lightening,null
+2022-08-20,40.995,44.266,null,null,lightening,null
+2022-08-21,40.983,44.284,null,null,lightening,null
+2022-08-22,40.626,44.69,null,null,lightening,null
+2022-08-23,39.839,46.113,null,null,lightening,null
+2022-08-24,40.968,44.173,null,null,lightening,null
+2022-06-02,40.963,44.26,null,null,lightening,null
+2022-06-03,41.079,44.493,null,null,lightening,null
+2022-06-04,41.17,44.586,null,null,lightening,null
+2022-06-05,41.279,44.397,null,null,lightening,null
+2022-06-06,40.968,44.698,null,null,lightening,null
+2022-06-07,40.643,45.28,null,null,lightening,null
+2022-06-08,40.611,44.681,null,null,lightening,null
+2022-06-09,39.79,46.109,null,null,lightening,null
+2022-06-10,40.928,44.251,null,null,lightening,null
+2022-06-11,40.248,46.389,null,null,lightening,null
+2022-06-12,39.856,46,null,null,lightening,null
+2022-06-13,40.255,46.463,null,null,lightening,null
+2022-06-14,39.863,46.027,null,null,lightening,null
+2022-06-15,40.139,43.27,null,null,lightening,null
+2022-06-16,40.973,43.342,null,null,lightening,null
+2022-06-17,40.111,43.278,null,null,lightening,null
+2022-06-18,40.146,43.321,null,null,lightening,null
+2022-06-19,40.093,43.292,null,null,lightening,null
+2022-06-20,40.557,44.143,null,null,lightening,null
+2022-06-21,40.526,44.08,null,null,lightening,null
+2022-06-22,40.816,43.487,null,null,lightening,null
+2022-06-23,40.359,44.291,null,null,lightening,null
+2022-06-24,40.928,43.413,null,null,lightening,null
+2022-06-25,40.126,43.295,null,null,lightening,null
+2022-06-26,40.141,43.279,null,null,lightening,null
+2022-06-27,40.099,43.284,null,null,lightening,null
+2022-06-02,40.081,43.293,null,null,lightening,null
+2022-06-03,40.569,44.177,null,null,lightening,null
+2022-06-04,40.951,43.434,null,null,lightening,null
+2022-06-05,40.124,43.361,null,null,lightening,null
+2022-06-06,40.126,43.272,null,null,lightening,null
+2022-06-07,40.988,43.349,null,null,lightening,null
+2022-06-08,40.556,44.147,null,null,lightening,null
+2022-06-09,40.35,44.22,null,null,lightening,null
+2022-06-10,40.105,43.295,null,null,lightening,null
+2022-06-11,40.15,43.297,null,null,lightening,null
+2022-06-12,40.561,44.181,null,null,lightening,null
+2022-06-13,40.91,43.425,null,null,lightening,null
+2022-06-14,40.352,44.3,null,null,lightening,null
+2022-06-15,40.823,43.458,null,null,lightening,null
+2022-06-16,40.164,43.27,null,null,lightening,null
+2022-06-17,40.134,43.302,null,null,lightening,null
+2022-06-18,40.152,43.271,null,null,lightening,null
+2022-06-19,40.954,43.4,null,null,lightening,null
+2022-06-20,40.173,43.3,null,null,lightening,null
+2022-06-21,40.589,44.142,null,null,lightening,null
+2022-06-22,40.118,43.27,null,null,lightening,null
+2022-06-23,40.159,43.338,null,null,lightening,null
+2022-06-24,40.36,44.249,null,null,lightening,null
+2022-06-25,40.141,43.258,null,null,lightening,null
+2022-06-26,40.967,43.332,null,null,lightening,null
+2022-06-27,40.572,44.109,null,null,lightening,null
+2022-06-28,40.859,43.435,null,null,lightening,null
+2022-06-29,40.369,44.244,null,null,lightening,null
+2022-06-30,39.312,45.313,null,null,lightening,null
+2022-07-01,39.267,45.396,null,null,lightening,null
+2022-07-02,39.315,45.331,null,null,lightening,null
+2022-07-03,39.834,45.022,null,null,lightening,null
+2022-07-04,39.631,46.565,null,null,lightening,null
+2022-07-05,39.685,46.528,null,null,lightening,null
+2022-07-06,39.817,46.525,null,null,lightening,null
+2022-07-07,39.636,46.482,null,null,lightening,null
+2022-07-08,41.323,43.807,null,null,lightening,null
+2022-07-09,40.587,43.525,null,null,lightening,null
+2022-07-10,41.298,43.834,null,null,lightening,null
+2022-07-11,41.283,43.832,null,null,lightening,null
+2022-07-12,40.557,44.669,null,null,lightening,null
+2022-07-13,41.396,43.9,null,null,lightening,null
+2022-07-14,41.375,43.828,null,null,lightening,null
+2022-07-15,40.884,44.942,null,null,lightening,null
+2022-07-16,41.381,43.851,null,null,lightening,null
+2022-07-17,41.411,43.94,null,null,lightening,null
+2022-07-18,41.411,43.96,null,null,lightening,null
+2022-07-19,39.929,43.55,null,null,lightening,null
+2022-07-20,39.675,45.163,null,null,lightening,null
+2022-07-21,39.859,45.259,null,null,lightening,null
+2022-07-22,39.573,44.974,null,null,lightening,null
+2022-07-23,39.133,45.221,null,null,lightening,null
+2022-07-24,39.686,45.167,null,null,lightening,null
+2022-07-25,39.601,45.081,null,null,lightening,null
+2022-07-26,39.698,45.236,null,null,lightening,null
+2022-07-27,39.328,45.431,null,null,lightening,null
+2022-07-28,39.677,45.084,null,null,lightening,null
+2022-07-29,41.461,43.902,null,null,lightening,null
+2022-07-30,40.988,44.503,null,null,lightening,null
+2022-07-31,41.071,44.461,null,null,lightening,null
+2022-08-01,41.01,44.579,null,null,lightening,null
+2022-08-02,41.037,44.306,null,null,lightening,null
+2022-08-03,41.037,44.337,null,null,lightening,null
+2022-08-04,40.981,44.505,null,null,lightening,null
+2022-08-05,40.992,44.516,null,null,lightening,null
+2022-08-06,40.982,44.508,null,null,lightening,null
+2022-08-07,40.984,44.543,null,null,lightening,null
+2022-08-08,40.978,44.456,null,null,lightening,null
+2022-08-09,41.057,44.461,null,null,lightening,null
+2022-08-10,39.271,43.612,null,null,lightening,null
+2022-08-11,40.975,44.523,null,null,lightening,null
+2022-08-12,41,44.564,null,null,lightening,null
+2022-08-13,40.939,44.538,null,null,lightening,null
+2022-08-14,40.009,45.882,null,null,lightening,null
+2022-08-15,40.967,44.502,null,null,lightening,null
+2022-08-16,39.907,46.267,null,null,lightening,null
+2022-08-17,41.5,44.238,null,null,lightening,null
+2022-08-18,40.98,44.506,null,null,lightening,null
+2022-06-02,41.229,46.496,null,null,lightening,null
+2022-06-03,41.029,44.483,null,null,lightening,null
+2022-06-04,40.977,44.558,null,null,lightening,null
+2022-06-05,39.919,46.271,null,null,lightening,null
+2022-06-06,40.964,44.485,null,null,lightening,null
+2022-06-07,40.947,44.464,null,null,lightening,null
+2022-06-08,41.495,44.51,null,null,lightening,null
+2022-06-09,40.992,44.376,null,null,lightening,null
+2022-06-10,41.015,44.483,null,null,lightening,null
+2022-06-11,40.953,44.478,null,null,lightening,null
+2022-06-12,39.997,45.89,null,null,lightening,null
+2022-06-13,40.935,44.421,null,null,lightening,null
+2022-06-14,41.111,46.435,null,null,lightening,null
+2022-06-15,41.093,46.532,null,null,lightening,null
+2022-06-16,40.976,44.495,null,null,lightening,null
+2022-06-17,39.924,46.275,null,null,lightening,null
+2022-06-18,41.021,44.445,null,null,lightening,null
+2022-06-19,39.871,46.321,null,null,lightening,null
+2022-06-20,40.947,44.47,null,null,lightening,null
+2022-06-21,40.986,44.318,null,null,lightening,null
+2022-06-22,41.008,44.553,null,null,lightening,null
+2022-06-23,39.874,46.281,null,null,lightening,null
+2022-06-24,40.967,44.415,null,null,lightening,null
+2022-06-25,41.036,44.462,null,null,lightening,null
+2022-06-26,41.488,44.497,null,null,lightening,null
+2022-06-27,40.931,44.434,null,null,lightening,null
+2022-06-28,40.927,44.519,null,null,lightening,null
+2022-06-29,39.33,44.2,null,null,lightening,null
+2022-06-30,41.076,44.419,null,null,lightening,null
+2022-07-01,40.964,44.487,null,null,lightening,null
+2022-07-02,39.853,46.275,null,null,lightening,null
+2022-07-03,39.299,46.452,null,null,lightening,null
+2022-07-04,41.013,44.422,null,null,lightening,null
+2022-07-05,39.867,46.306,null,null,lightening,null
+2022-07-06,41.352,46.302,null,null,lightening,null
+2022-07-07,40.252,45.196,null,null,lightening,null
+2022-07-08,41.104,46.45,null,null,lightening,null
+2022-07-09,39.846,46.27,null,null,lightening,null
+2022-07-10,39.934,46.139,null,null,lightening,null
+2022-07-11,41.265,43.329,null,null,lightening,null
+2022-07-12,41.251,43.849,null,null,lightening,null
+2022-07-13,41.228,44.008,null,null,lightening,null
+2022-07-14,39.621,45.854,null,null,lightening,null
+2022-06-02,39.611,45.761,null,null,lightening,null
+2022-06-03,39.61,45.804,null,null,lightening,null
+2022-06-04,39.578,45.818,null,null,lightening,null
+2022-06-05,39.608,45.765,null,null,lightening,null
+2022-06-06,39.585,45.695,null,null,lightening,null
+2022-06-07,40.392,43.412,null,null,lightening,null
+2022-06-08,40.566,43.361,null,null,lightening,null
+2022-06-09,40.514,43.466,null,null,lightening,null
+2022-06-10,40.507,43.381,null,null,lightening,null
+2022-06-11,41.423,43.808,null,null,lightening,null
+2022-06-12,41.35,43.772,null,null,lightening,null
+2022-06-13,41.454,44.161,null,null,lightening,null
+2022-06-14,40.479,45.848,null,null,lightening,null
+2022-06-15,39.331,44.539,null,null,lightening,null
+2022-06-16,41.12,45.366,null,null,lightening,null
+2022-06-17,41.336,43.808,null,null,lightening,null
+2022-06-18,40.388,46.296,null,null,lightening,null
+2022-06-19,39.776,46.004,null,null,lightening,null
+2022-06-20,39.16,45.495,null,null,lightening,null
+2022-06-21,41.442,44.15,null,null,lightening,null
+2022-06-22,41.186,45.19,null,null,lightening,null
+2022-06-23,40.45,45.744,null,null,lightening,null
+2022-06-24,39.833,46.579,null,null,lightening,null
+2022-06-25,40.377,45.952,null,null,lightening,null
+2022-06-26,41.308,43.834,null,null,lightening,null
+2022-06-27,40.552,46.182,null,null,lightening,null
+2022-06-28,39.36,44.548,null,null,lightening,null
+2022-06-29,39.737,46.561,null,null,lightening,null
+2022-06-30,40.668,45.991,null,null,lightening,null
+2022-07-01,39.786,45.999,null,null,lightening,null
+2022-07-02,41.422,44.206,null,null,lightening,null
+2022-07-03,40.571,45.894,null,null,lightening,null
+2022-07-04,39.798,46.047,null,null,lightening,null
+2022-07-05,39.821,46.602,null,null,lightening,null
+2022-06-02,39.921,46.655,null,null,lightening,null
+2022-06-03,40.444,45.882,null,null,lightening,null
+2022-06-04,40.139,46.268,null,null,lightening,null
+2022-06-05,39.79,46.563,null,null,lightening,null
+2022-06-06,40.606,46.029,null,null,lightening,null
+2022-06-07,39.314,44.47,null,null,lightening,null
+2022-06-08,40.381,45.95,null,null,lightening,null
+2022-06-09,39.906,46.598,null,null,lightening,null
+2022-06-10,38.523,46.403,null,null,lightening,null
+2022-06-11,39.415,44.586,null,null,lightening,null
+2022-06-12,39.774,45.965,null,null,lightening,null
+2022-06-13,40.433,46.181,null,null,lightening,null
+2022-06-14,41.394,43.832,null,null,lightening,null
+2022-06-15,40.538,45.887,null,null,lightening,null
+2022-06-16,39.14,45.532,null,null,lightening,null
+2022-06-17,39.749,46.538,null,null,lightening,null
+2022-06-18,39.352,44.58,null,null,lightening,null
+2022-06-19,40.457,45.744,null,null,lightening,null
+2022-06-20,39.779,46.54,null,null,lightening,null
+2022-06-21,40.208,46.213,null,null,lightening,null
+2022-06-22,40.513,46.168,null,null,lightening,null
+2022-06-23,39.15,45.564,null,null,lightening,null
+2022-06-23,39.775,45.999,null,null,lightening,null
+2022-06-24,38.513,46.527,null,null,lightening,null
+2022-06-25,39.164,45.507,null,null,lightening,null
+2022-06-26,41.481,44.203,null,null,lightening,null
+2022-06-27,40.443,45.863,null,null,lightening,null
+2022-06-28,39.758,46.529,null,null,lightening,null
+2022-06-29,39.929,46.605,null,null,lightening,null
+2022-06-30,39.789,46.022,null,null,lightening,null
+2022-07-01,40.719,46.008,null,null,lightening,null
+2022-07-02,39.156,45.548,null,null,lightening,null
+2022-07-03,40.54,45.884,null,null,lightening,null
+2022-07-04,38.519,46.444,null,null,lightening,null
+2022-07-05,39.137,45.586,null,null,lightening,null
+2022-07-06,39.917,46.622,null,null,lightening,null
+2022-07-07,40.449,45.78,null,null,lightening,null
+2022-07-08,39.806,46.583,null,null,lightening,null
+2022-06-02,40.354,46.146,null,null,lightening,null
+2022-06-03,39.17,45.586,null,null,lightening,null
+2022-06-04,40.71,46.016,null,null,lightening,null
+2022-06-05,39.78,46.623,null,null,lightening,null
+2022-06-06,40.811,45.989,null,null,lightening,null
+2022-06-07,39.149,45.555,null,null,lightening,null
+2022-06-08,40.591,46.186,null,null,lightening,null
+2022-06-09,39.828,46.59,null,null,lightening,null
+2022-06-10,38.513,46.559,null,null,lightening,null
+2022-06-11,39.306,44.476,null,null,lightening,null
+2022-06-12,39.157,45.613,null,null,lightening,null
+2022-06-13,40.302,43.835,null,null,lightening,null
+2022-06-14,40.661,44.406,null,null,lightening,null
+2022-06-15,40.902,44.914,null,null,lightening,null
+2022-06-16,40.264,43.801,null,null,lightening,null
+2022-06-17,39.864,44.092,null,null,lightening,null
+2022-06-18,39.82,43.62,null,null,lightening,null
+2022-06-19,40.301,43.863,null,null,lightening,null
+2022-06-20,41.162,43.571,null,null,lightening,null
+2022-06-21,40.678,44.42,null,null,lightening,null
+2022-06-22,40.669,45.822,null,null,lightening,null
+2022-06-23,40.293,43.979,null,null,lightening,null
+2022-06-24,39.858,44.111,null,null,lightening,null
+2022-06-25,40.157,46.007,null,null,lightening,null
+2022-06-26,39.845,43.592,null,null,lightening,null
+2022-06-27,40.293,44.173,null,null,lightening,null
+2022-06-28,40.178,46.105,null,null,lightening,null
+2022-06-29,40.917,44.967,null,null,lightening,null
+2022-06-30,40.688,45.886,null,null,lightening,null
+2022-07-01,40.271,46.024,null,null,lightening,null
+2022-07-02,40.418,45.855,null,null,lightening,null
+2022-07-03,40.633,44.459,null,null,lightening,null
+2022-07-04,40.17,46.041,null,null,lightening,null
+2022-07-05,39.877,46.648,null,null,lightening,null
+2022-07-06,40.296,46.042,null,null,lightening,null
+2022-07-07,39.637,43.549,null,null,lightening,null
+2022-07-08,40.19,46.062,null,null,lightening,null
+2022-07-09,40.27,46.106,null,null,lightening,null
+2022-07-10,39.897,43.675,null,null,lightening,null
+2022-07-11,40.185,46.074,null,null,lightening,null
+2022-07-12,40.502,45.78,null,null,lightening,null
+2022-07-13,40.64,45.865,null,null,lightening,null
+2022-07-14,39.795,43.662,null,null,lightening,null
+2022-07-15,40.264,46.146,null,null,lightening,null
+2022-07-16,39.697,43.673,null,null,lightening,null
+2022-07-17,40.172,46.124,null,null,lightening,null
+2022-07-18,40.255,46.085,null,null,lightening,null
+2022-07-19,40.135,46.032,null,null,lightening,null
+2022-07-20,40.658,44.461,null,null,lightening,null
+2022-07-21,40.161,46.155,null,null,lightening,null
+2022-07-22,41.164,43.581,null,null,lightening,null
+2022-07-23,39.852,44.122,null,null,lightening,null
+2022-07-24,40.154,46.04,null,null,lightening,null
+2022-07-25,39.895,46.584,null,null,lightening,null
+2022-07-26,39.83,43.625,null,null,lightening,null
+2022-07-27,40.273,46.127,null,null,lightening,null
+2022-07-28,40.92,44.967,null,null,lightening,null
+2022-07-29,40.19,46.087,null,null,lightening,null
+2022-06-02,40.193,46.082,null,null,lightening,null
+2022-06-03,40.293,43.981,null,null,lightening,null
+2022-06-04,40.37,46.056,null,null,lightening,null
+2022-06-05,40.275,46.063,null,null,lightening,null
+2022-06-06,39.617,43.627,null,null,lightening,null
+2022-06-07,40.65,45.866,null,null,lightening,null
+2022-06-08,40.15,46.05,null,null,lightening,null
+2022-06-09,40.181,46.107,null,null,lightening,null
+2022-06-10,39.822,43.623,null,null,lightening,null
+2022-06-11,40.269,46.038,null,null,lightening,null
+2022-06-12,40.171,46.072,null,null,lightening,null
+2022-06-13,39.847,46.745,null,null,lightening,null
+2022-06-14,40.179,46.108,null,null,lightening,null
+2022-06-15,40.113,46.06,null,null,lightening,null
+2022-06-16,39.838,46.72,null,null,lightening,null
+2022-06-17,39.913,46.68,null,null,lightening,null
+2022-06-18,41.251,44.808,null,null,lightening,null
+2022-06-19,41.264,44.974,null,null,lightening,null
+2022-06-20,41.281,45.038,null,null,lightening,null
+2022-06-21,40.928,45.227,null,null,lightening,null
+2022-06-22,40.878,45.321,null,null,lightening,null
+2022-06-23,41.159,44.63,null,null,lightening,null
+2022-06-24,41.124,44.877,null,null,lightening,null
+2022-06-25,40.903,45.255,null,null,lightening,null
+2022-06-26,40.847,45.301,null,null,lightening,null
+2022-06-27,40.581,45.787,null,null,lightening,null
+2022-06-28,40.983,45.365,null,null,lightening,null
+2022-06-29,40.892,45.371,null,null,lightening,null
+2022-06-30,40.865,45.291,null,null,lightening,null
+2022-07-01,41.341,45.763,null,null,lightening,null
+2022-07-02,40.946,45.39,null,null,lightening,null
+2022-07-03,41.233,45.009,null,null,lightening,null
+2022-07-04,41.26,45.111,null,null,lightening,null
+2022-07-05,41.466,44.151,null,null,lightening,null
+2022-07-06,40.897,45.298,null,null,lightening,null
+2022-07-07,41.315,45.749,null,null,lightening,null
+2022-07-08,40.611,45.781,null,null,lightening,null
+2022-07-09,40.898,45.28,null,null,lightening,null
+2022-07-10,40.877,45.395,null,null,lightening,null
+2022-07-11,41.354,46.417,null,null,lightening,null
+2022-07-12,40.527,45.792,null,null,lightening,null
+2022-07-13,40.617,46.104,null,null,lightening,null
+2022-07-14,41.051,44.599,null,null,lightening,null
+2022-06-02,41.109,44.876,null,null,lightening,null
+2022-06-03,41.241,45.088,null,null,lightening,null
+2022-06-04,40.859,45.347,null,null,lightening,null
+2022-06-05,41.169,45.059,null,null,lightening,null
+2022-06-06,40.905,45.272,null,null,lightening,null
+2022-06-07,40.804,45.303,null,null,lightening,null
+2022-06-08,40.62,44.898,null,null,lightening,null
+2022-06-09,40.909,45.334,null,null,lightening,null
+2022-06-10,40.65,44.948,null,null,lightening,null
+2022-06-11,41.239,45.136,null,null,lightening,null
+2022-06-12,39.686,46.351,null,null,lightening,null
+2022-06-13,40.528,45.817,null,null,lightening,null
+2022-06-14,40.658,43.876,null,null,lightening,null
+2022-06-15,40.891,45.297,null,null,lightening,null
+2022-06-16,41.326,45.766,null,null,lightening,null
+2022-06-17,40.471,45.795,null,null,lightening,null
+2022-06-18,40.618,44.358,null,null,lightening,null
+2022-06-19,40.625,44.763,null,null,lightening,null
+2022-06-20,39.112,46.654,null,null,lightening,null
+2022-06-21,39.652,46.36,null,null,lightening,null
+2022-06-22,39.148,46.486,null,null,lightening,null
+2022-06-23,39.45,45.437,null,null,lightening,null
+2022-06-24,39.654,46.282,null,null,lightening,null
+2022-06-25,39.053,46.609,null,null,lightening,null
+2022-06-26,40.879,45.141,null,null,lightening,null
+2022-06-27,40.546,44.797,null,null,lightening,null
+2022-06-02,40.677,44.394,null,null,lightening,null
+2022-06-03,40.507,43.586,null,null,lightening,null
+2022-06-04,40.081,43.547,null,null,lightening,null
+2022-06-05,41.192,44.561,null,null,lightening,null
+2022-06-06,40.95,44.692,null,null,lightening,null
+2022-06-07,40.977,44.745,null,null,lightening,null
+2022-06-08,40.062,43.752,null,null,lightening,null
+2022-06-09,40.1,43.484,null,null,lightening,null
+2022-06-10,40.909,44.69,null,null,lightening,null
+2022-06-11,40.838,44.665,null,null,lightening,null
+2022-06-12,40.903,44.732,null,null,lightening,null
+2022-06-13,40.968,44.231,null,null,lightening,null
+2022-06-14,40.096,43.765,null,null,lightening,null
+2022-06-15,40.121,43.496,null,null,lightening,null
+2022-06-16,40.9,44.646,null,null,lightening,null
+2022-06-17,40.922,44.765,null,null,lightening,null
+2022-06-18,40.055,43.675,null,null,lightening,null
+2022-06-19,40.825,44.687,null,null,lightening,null
+2022-06-20,40.923,44.696,null,null,lightening,null
+2022-06-21,39.549,45.86,null,null,lightening,null
+2022-06-22,40.918,44.687,null,null,lightening,null
+2022-06-23,40.84,44.698,null,null,lightening,null
+2022-06-24,40.048,43.795,null,null,lightening,null
+2022-06-25,39.975,44.043,null,null,lightening,null
+2022-06-26,40.047,43.701,null,null,lightening,null
+2022-06-27,40.938,44.696,null,null,lightening,null
+2022-06-28,40.975,44.756,null,null,lightening,null
+2022-06-29,40.158,43.69,null,null,lightening,null
+2022-06-30,39.899,43.573,null,null,lightening,null
+2022-07-01,40.052,43.608,null,null,lightening,null
+2022-07-02,40.934,44.704,null,null,lightening,null
+2022-07-03,40.034,43.803,null,null,lightening,null
+2022-07-04,40.07,43.537,null,null,lightening,null
+2022-07-05,40.145,43.745,null,null,lightening,null
+2022-07-06,40.958,44.705,null,null,lightening,null
+2022-07-07,40.062,43.73,null,null,lightening,null
+2022-07-08,40.973,44.746,null,null,lightening,null
+2022-06-02,40.914,44.701,null,null,lightening,null
+2022-06-03,40.013,43.706,null,null,lightening,null
+2022-06-04,40.952,44.704,null,null,lightening,null
+2022-06-05,40.906,44.737,null,null,lightening,null
+2022-06-06,40.904,44.82,null,null,lightening,null
+2022-06-07,40.039,43.667,null,null,lightening,null
+2022-06-08,40.463,45.118,null,null,lightening,null
+2022-06-09,41.171,44.445,null,null,lightening,null
+2022-06-10,40.952,44.686,null,null,lightening,null
+2022-06-11,41.175,44.65,null,null,lightening,null
+2022-06-12,40.554,44.463,null,null,lightening,null
+2022-06-13,40.514,44.457,null,null,lightening,null
+2022-06-14,40.383,44.159,null,null,lightening,null
+2022-06-15,40.53,44.483,null,null,lightening,null
+2022-06-16,40.425,44.483,null,null,lightening,null
+2022-06-17,40.477,44.476,null,null,lightening,null
+2022-06-18,40.508,44.493,null,null,lightening,null
+2022-06-19,41.465,43.954,null,null,lightening,null
+2022-06-20,40.849,44.977,null,null,lightening,null
+2022-06-21,39.188,44.924,null,null,lightening,null
+2022-06-22,40.826,44.972,null,null,lightening,null
+2022-06-23,41.14,44.811,null,null,lightening,null
+2022-06-24,41.073,44.9,null,null,lightening,null
+2022-06-25,40.972,45.139,null,null,lightening,null
+2022-06-26,40.882,44.944,null,null,lightening,null
+2022-06-27,40.843,44.986,null,null,lightening,null
+2022-06-28,40.823,44.971,null,null,lightening,null
+2022-06-29,41.125,44.826,null,null,lightening,null
+2022-06-30,39.233,44.878,null,null,lightening,null
+2022-07-01,40.869,43.979,null,null,lightening,null
+2022-07-02,41.463,43.984,null,null,lightening,null
+2022-07-03,40.86,44.949,null,null,lightening,null
+2022-07-04,41.077,44.897,null,null,lightening,null
+2022-07-05,41.022,44.917,null,null,lightening,null
+2022-07-06,40.855,45.04,null,null,lightening,null
+2022-07-07,40.814,44.981,null,null,lightening,null
+2022-07-08,40.724,43.777,null,null,lightening,null
+2022-07-09,38.998,44.889,null,null,lightening,null
+2022-07-10,40.934,45.236,null,null,lightening,null
+2022-07-11,40.85,45.027,null,null,lightening,null
+2022-07-12,39.217,44.907,null,null,lightening,null
+2022-07-13,39.171,44.909,null,null,lightening,null
+2022-07-14,40.282,45.149,null,null,lightening,null
+2022-07-15,39.334,46.744,null,null,lightening,null
+2022-07-16,40.106,46.22,null,null,lightening,null
+2022-07-17,40.076,46.306,null,null,lightening,null
+2022-07-18,39.295,46.727,null,null,lightening,null
+2022-07-19,41.314,45.912,null,null,lightening,null
+2022-07-20,41.279,45.869,null,null,lightening,null
+2022-07-21,41.488,46.02,null,null,lightening,null
+2022-07-22,41.053,45.903,null,null,lightening,null
+2022-07-23,41.266,45.92,null,null,lightening,null
+2022-07-24,41.281,45.865,null,null,lightening,null
+2022-07-25,41.269,45.913,null,null,lightening,null
+2022-07-26,41.447,46.081,null,null,lightening,null
+2022-07-27,41.5,46.482,null,null,lightening,null
+2022-07-28,41.494,46.062,null,null,lightening,null
+2022-07-29,41.281,45.895,null,null,lightening,null
+2022-07-30,41.448,46.035,null,null,lightening,null
+2022-06-02,41.461,46.405,null,null,lightening,null
+2022-06-03,41.293,45.919,null,null,lightening,null
+2022-06-04,41.434,46.075,null,null,lightening,null
+2022-06-05,41.272,45.923,null,null,lightening,null
+2022-06-06,41.309,45.922,null,null,lightening,null
+2022-06-07,41.441,46.034,null,null,lightening,null
+2022-06-08,41.347,45.879,null,null,lightening,null
+2022-06-09,41.063,45.937,null,null,lightening,null
+2022-06-10,41.453,46.048,null,null,lightening,null
+2022-06-11,41.299,45.912,null,null,lightening,null
+2022-06-12,41.323,45.904,null,null,lightening,null
+2022-06-13,41.306,45.955,null,null,lightening,null
+2022-06-14,41.465,46.056,null,null,lightening,null
+2022-06-15,41.343,45.894,null,null,lightening,null
+2022-06-16,41.31,45.889,null,null,lightening,null
+2022-06-17,41.49,46.082,null,null,lightening,null
+2022-06-18,41.46,46.031,null,null,lightening,null
+2022-06-19,41.336,45.935,null,null,lightening,null
+2022-06-20,41.292,45.946,null,null,lightening,null
+2022-06-21,41.479,46.449,null,null,lightening,null
+2022-06-22,41.324,45.891,null,null,lightening,null
+2022-06-23,41.073,45.985,null,null,lightening,null
+2022-06-24,41.453,46.056,null,null,lightening,null
+2022-06-25,40.768,44.89,null,null,lightening,null
+2022-06-26,41.279,45.977,null,null,lightening,null
+2022-06-27,41.308,45.917,null,null,lightening,null
+2022-06-28,41.441,46.078,null,null,lightening,null
+2022-06-29,41.308,45.939,null,null,lightening,null
+2022-06-30,41.479,46.084,null,null,lightening,null
+2022-07-01,41.484,46.037,null,null,lightening,null
+2022-07-02,41.324,45.923,null,null,lightening,null
+2022-07-03,41.428,46.05,null,null,lightening,null
+2022-06-02,41.479,46.026,null,null,lightening,null
+2022-06-03,40.554,44.985,null,null,lightening,null
+2022-06-04,41.483,46.077,null,null,lightening,null
+2022-06-05,41.314,45.933,null,null,lightening,null
+2022-06-06,41.478,46.07,null,null,lightening,null
+2022-06-07,41.281,45.97,null,null,lightening,null
+2022-06-02,41.458,46.056,null,null,lightening,null
+2022-06-03,41.07,45.987,null,null,lightening,null
+2022-06-04,41.435,46.07,null,null,lightening,null
+2022-06-05,41.468,46.494,null,null,lightening,null
+2022-06-06,41.473,46.133,null,null,lightening,null
+2022-06-07,41.424,46.081,null,null,lightening,null
+2022-06-08,41.27,45.924,null,null,lightening,null
+2022-06-09,41.447,46.052,null,null,lightening,null
+2022-06-10,41.491,46.037,null,null,lightening,null
+2022-06-11,41.245,45.953,null,null,lightening,null
+2022-07-01,41.045,45.963,null,null,lightening,null
+2022-07-02,41.414,46.067,null,null,lightening,null
+2022-07-03,41.414,46.076,null,null,lightening,null
+2022-07-04,41.463,46.112,null,null,lightening,null
+2022-07-05,41.432,46.724,null,null,lightening,null
+2022-07-06,41.391,46.471,null,null,lightening,null
+2022-07-07,41.249,46.297,null,null,lightening,null
+2022-07-08,41.308,46.36,null,null,lightening,null
+2022-07-09,41.378,46.476,null,null,lightening,null
+2022-07-10,41.246,46.312,null,null,lightening,null
+2022-07-11,41.259,46.361,null,null,lightening,null
+2022-07-12,40.531,44.604,null,null,lightening,null
+2022-07-13,41.241,46.332,null,null,lightening,null
+2022-07-14,41.399,46.496,null,null,lightening,null
+2022-07-15,41.303,46.379,null,null,lightening,null
+2022-07-16,41.245,46.366,null,null,lightening,null
+2022-07-17,41.384,46.489,null,null,lightening,null
+2022-07-18,41.251,46.332,null,null,lightening,null
+2022-07-19,41.249,46.362,null,null,lightening,null
+2022-07-20,41.324,46.375,null,null,lightening,null
+2022-07-21,41.371,46.438,null,null,lightening,null
+2022-07-22,41.269,46.315,null,null,lightening,null
+2022-07-23,41.152,46.685,null,null,lightening,null
+2022-07-24,41.479,46.58,null,null,lightening,null
+2022-07-11,41.293,46.333,null,null,lightening,null
+2022-07-12,41.486,46.659,null,null,lightening,null
+2022-07-13,41.335,46.411,null,null,lightening,null
+2022-07-14,40.553,44.603,null,null,lightening,null
+2022-07-15,41.316,46.351,null,null,lightening,null
+2022-07-16,41.345,46.365,null,null,lightening,null
+2022-07-17,40.954,44.278,null,null,lightening,null
+2022-07-18,40.957,44.434,null,null,lightening,null
+2022-07-19,40.924,44.457,null,null,lightening,null
+2022-07-20,40.977,44.332,null,null,lightening,null
+2022-07-21,41.043,44.305,null,null,lightening,null
+2022-07-22,40.99,44.421,null,null,lightening,null
+2022-07-23,41.191,43.62,null,null,lightening,null
+2022-07-24,41.232,43.675,null,null,lightening,null
+2022-07-25,41.221,46.34,null,null,lightening,null
+2022-07-26,39.728,44.073,null,null,lightening,null
+2022-07-27,41.276,44.174,null,null,lightening,null
+2022-07-28,41.304,44.219,null,null,lightening,null
+2022-07-29,38.623,44.343,null,null,lightening,null
+2022-07-30,38.575,44.431,null,null,lightening,null
+2022-07-31,39.844,45.865,null,null,lightening,null
+2022-08-01,39.819,45.928,null,null,lightening,null
+2022-08-02,39.839,45.795,null,null,lightening,null
+2022-08-03,39.845,45.956,null,null,lightening,null
+2022-08-04,38.62,44.384,null,null,lightening,null
+2022-08-05,39.817,45.931,null,null,lightening,null
+2022-08-06,39.819,45.847,null,null,lightening,null
+2022-08-07,38.579,44.435,null,null,lightening,null
+2022-08-08,39.864,45.782,null,null,lightening,null
+2022-08-09,39.814,45.938,null,null,lightening,null
+2022-08-10,39.853,45.792,null,null,lightening,null
+2022-08-11,39.836,45.942,null,null,lightening,null
+2022-08-12,39.852,45.975,null,null,lightening,null
+2022-08-13,39.911,45.79,null,null,lightening,null
+2022-08-14,39.848,45.964,null,null,lightening,null
+2022-08-15,39.836,45.844,null,null,lightening,null
+2022-08-16,39.885,46.083,null,null,lightening,null
+2022-08-17,40.036,45.918,null,null,lightening,null
+2022-08-18,39.079,44.377,null,null,lightening,null
+2022-08-19,39.893,46.083,null,null,lightening,null
+2022-08-20,39.88,46.107,null,null,lightening,null
+2022-08-21,40.073,45.924,null,null,lightening,null
+2022-08-22,39.877,46.122,null,null,lightening,null
+2022-08-23,40.043,45.777,null,null,lightening,null
+2022-08-24,39.882,46.137,null,null,lightening,null
+2022-08-25,40.287,45.053,null,null,lightening,null
+2022-08-12,40.016,46.528,null,null,lightening,null
+2022-08-13,40.112,44.97,null,null,lightening,null
+2022-08-14,40.209,45.021,null,null,lightening,null
+2022-08-15,40.501,44.998,null,null,lightening,null
+2022-08-16,40.361,45.081,null,null,lightening,null
+2022-08-17,39.955,46.386,null,null,lightening,null
+2022-08-18,40.723,44.151,null,null,lightening,null
+2022-08-19,39.182,46.444,null,null,lightening,null
+2022-08-20,41.063,43.995,null,null,lightening,null
+2022-08-21,40.928,44.585,null,null,lightening,null
+2022-08-22,40.989,44.626,null,null,lightening,null
+2022-08-23,39.988,45.64,null,null,lightening,null
+2022-08-24,40.014,45.75,null,null,lightening,null
+2022-08-25,41.231,43.703,null,null,lightening,null
+2022-08-26,40.006,45.742,null,null,lightening,null
+2022-08-27,39.83,46.173,null,null,lightening,null
+2022-08-28,40.011,45.627,null,null,lightening,null
+2022-08-29,39.805,46.069,null,null,lightening,null
+2022-08-30,39.143,45.693,null,null,lightening,null
+2022-08-31,39.112,46.181,null,null,lightening,null
+2022-09-01,40.481,45.17,null,null,lightening,null
+2022-09-02,40.447,45.103,null,null,lightening,null
+2022-09-03,40.481,45.134,null,null,lightening,null
+2022-09-04,40.421,45.042,null,null,lightening,null
+2022-09-05,40.496,45.169,null,null,lightening,null
+2022-09-06,40.456,45.017,null,null,lightening,null
+2022-09-07,40.478,45.075,null,null,lightening,null
+2022-09-08,40.526,45.107,null,null,lightening,null
+2022-09-09,40.494,45.009,null,null,lightening,null
+2022-09-10,40.469,45.027,null,null,lightening,null
+2022-09-11,40.54,45.101,null,null,lightening,null
+2022-09-12,40.541,45.174,null,null,lightening,null
+2022-09-13,40.51,45.086,null,null,lightening,null
+2022-09-14,40.554,45.129,null,null,lightening,null
+2022-09-15,41.452,43.399,null,null,lightening,null
+2022-09-16,40.515,45.076,null,null,lightening,null
+2022-09-17,40.498,45.122,null,null,lightening,null
+2022-09-18,40.553,45.119,null,null,lightening,null
+2022-09-19,40.647,45.196,null,null,lightening,null
+2022-09-20,40.554,45.158,null,null,lightening,null
+2022-09-21,40.564,45.133,null,null,lightening,null
+2022-09-22,40.512,45.108,null,null,lightening,null
+2022-09-23,40.53,45.176,null,null,lightening,null
+2022-09-24,40.502,45.065,null,null,lightening,null
+2022-09-25,40.5,45.118,null,null,lightening,null
+2017-25-09,39.07881621,46.4985454,null,Սրաշեն չպաշտպանվող,hailstorm,null
+2017-02-06,39.07881621,46.4985454,null,Սրաշեն չպաշտպանվող,hailstorm,null
+2017-02-06,39.31083616,46.3747734,null,Վերին Խոտանան չպաշտպանվող,hailstorm,null
+2017-29-06,39.42870594,46.37722081,null,Որոտան չպաշտպանվող,hailstorm,null
+2017-01-06,39.42889407,46.3772119,null,Որոտան չպաշտպանվող,hailstorm,null
+2017-01-06,39.49360492,46.49996472,null,Ներքին Խնձորեսկ չպաշտպանվող,hailstorm,null
+2017-01-06,39.54724622,46.53006864,null,Կոռնիձոր չպաշտպանվող,hailstorm,null
+2017-01-06,39.56730842,46.46639704,null,Արավուս  չպաշտպանվող,hailstorm,null
+2017-01-06,39.55549366,46.47638941,null,Տեղ չպաշտպանվող,hailstorm,null
+2017-01-06,39.51525689,46.42755302,null,Խնձորեսկ չպաշտպանվող,hailstorm,null
+2017-01-06,39.5074038,46.34413402,null,Գորիս  չպաշտպանվող,hailstorm,null
+2017-01-06,39.53566232,46.30604265,null,Ակներ չպաշտպանվող,hailstorm,null
+2017-01-06,39.53039094,46.3161255,null,Վերիշեն չպաշտպանվող,hailstorm,null
+2017-01-07,39.35449937,46.30700651,null,Աղվանի չպաշտպանվող,hailstorm,null
+2017-01-08,39.37443747,46.25767663,null,Տանձատափ չպաշտպանվող,hailstorm,null
+2017-01-09,39.36572179,46.21653467,null,Սվարանց  չպաշտպանվող,hailstorm,null
+2017-01-10,39.40940062,46.1305004,null,Լոր  չպաշտպանվող,hailstorm,null
+2017-01-11,39.44329303,46.03653074,null,Ախլաթյան չպաշտպանվող,hailstorm,null
+2017-01-12,39.47686849,45.99364196,null,Աշոտավան չպաշտպանվող,hailstorm,null
+2017-01-13,39.473746,46.03467735,null,Տոլորս  չպաշտպանվող,hailstorm,null
+2017-01-14,39.43997994,46.12364303,null,Դարպաս չպաշտպանվող,hailstorm,null
+2017-01-15,39.43996421,46.12353747,null,Դարբաս  չպաշտպանվող,hailstorm,null
+2017-01-16,39.42491188,46.12578916,null,Գետաթաղ չպաշտպանվող,hailstorm,null
+2017-01-17,39.44584077,46.15972584,null,Լծեն  չպաշտպանվող,hailstorm,null
+2017-06-06,39.44587247,46.15970814,null,Լծեն չպաշտպանվող,hailstorm,null
+2017-06-07,39.51436307,46.07914154,null,Աղիտու չպաշտպանվող,hailstorm,null
+2017-06-08,39.50511121,46.11763791,null,Վաղատին  չպաշտպանվող,hailstorm,null
+2017-06-09,39.50499699,46.11753026,null,Վաղատին չպաշտպանվող,hailstorm,null
+2017-06-10,39.52234314,46.09489677,null,Նորավան չպաշտպանվող,hailstorm,null
+2017-06-11,39.56987672,45.99837064,null,Շաքի չպաշտպանվող,hailstorm,null
+2017-06-12,39.52417467,46.02715211,null,Սիսիան  չպաշտպանվող,hailstorm,null
+2017-06-13,39.50465815,46.04826063,null,Ույծ չպաշտպանվող,hailstorm,null
+2017-06-14,39.49702467,45.97083096,null,Բռնակոթ չպաշտպանվող,hailstorm,null
+2017-06-15,39.53093612,45.90741888,null,Մուցք չպաշտպանվող,hailstorm,null
+2017-06-16,39.56858846,45.90047185,null,Շաղատ չպաշտպանվող,hailstorm,null
+2017-06-17,39.57061256,45.936587,null,Անգեղակոթ չպաշտպանվող,hailstorm,null
+2017-06-18,39.55711927,45.93116065,null,Բալաք չպաշտպանվող,hailstorm,null
+2017-06-19,39.6288477,45.571956,null,"Գոմք
+չպաշտպանվող",hailstorm,null
+2017-06-20,39.65088419,45.44085129,null,Ազատեկ չպաշտպանվող,hailstorm,null
+2017-06-21,39.6457556,45.4716615,null,Փոռ չպաշտպանվող,hailstorm,null
+2017-06-22,39.8928961,45.26694466,null,Քարագլուխ չպաշտպանվող,hailstorm,null
+2017-06-23,40.13773561,45.42755474,null,Վարդենիկ չպաշտպանվող,hailstorm,null
+2017-06-24,40.12149872,45.6174877,null,Մաքենիս չպաշտպանվող,hailstorm,null
+2017-07-07,39.9000451,45.4847654,null,"Վարդահովիտ
+չպաշտպանվող",hailstorm,null
+2017-05-05,40.85373729,45.5775204,null,Չինարի չպաշտպանվող,hailstorm,null
+2017-05-06,40.8538783,45.5775204,null,Չինարի չպաշտպանվող,hailstorm,null
+2017-05-07,40.86213058,45.48752096,null,Չորաթան չպաշտպանվող,hailstorm,null
+2017-05-08,40.84376216,45.4714491,null,Արծվաբերդ չպաշտպանվող,hailstorm,null
+2017-05-09,40.8809229,45.4400353,null,Վերին Կարմիր Աղբյուր չպաշտպանվող,hailstorm,null
+2017-05-10,40.88064112,45.44007915,null,Վերին Կարմիր Աղբյուր չպաշտպանվող,hailstorm,null
+2017-05-11,40.98585076,45.36664751,null,Պառավաքար չպաշտպանվող,hailstorm,null
+2017-05-12,41.03387731,45.14373305,null,Սարիգյուղ չպաշտպանվող,hailstorm,null
+2017-05-13,40.89468377,45.13784346,null,Գետահովիտ չպաշտպանվող,hailstorm,null
+2017-05-14,40.94149937,45.3291573,null,Վերին Ծաղկավան չպաշտպանվող,hailstorm,null
+2017-05-15,40.9418143,45.32911651,null,Վերին Ծաղկավան չպաշտպանվող,hailstorm,null
+2017-05-16,40.96266784,45.3505601,null,Վարագավան (Հախում) չպաշտպանվող,hailstorm,null
+2017-05-17,40.90467653,45.3500995,null,Չինչին չպաշտպանվող,hailstorm,null
+2017-05-18,40.90457679,45.3500995,null,Չինչին չպաշտպանվող,hailstorm,null
+2017-05-19,40.88343846,45.3923909,null,Բերդ չպաշտպանվող,hailstorm,null
+2017-05-20,40.86792116,45.33920676,null,Նավուր չպաշտպանվող,hailstorm,null
+2017-06-06,40.16241825,45.7927853,null,Շատջրեք չպաշտպանվող,hailstorm,null
+2017-06-07,40.17868378,45.22431627,null,Ծակքար չպաշտպանվող,hailstorm,null
+2017-06-08,40.17610428,44.49910291,null,Երևան չպաշտպանվող,hailstorm,null
+2017-06-09,40.18232337,44.51661716,null,ք.Երևան չպաշտպանվող,hailstorm,null
+2017-07-12,40.32784651,44.3717601,null,"Կարբի
+պաշտպանվող",hailstorm,null
+2017-07-13,40.3486292,44.3871762,null,"Օհանավան
+պաշտպանվող",hailstorm,null
+2017-07-14,40.3822981,44.3945694,null,"Սաղմոսավան 
+պաշտպանվող",hailstorm,null
+2017-07-15,40.3860848,44.3814118,null,"Արտաշավան 
+պաշտպանվող",hailstorm,null
+2017-07-16,40.38592593,44.38140278,null,Արտաշավան պաշտպանվող,hailstorm,null
+2017-07-17,40.4013375,44.54375993,null,"Արագյուղ
+չպաշտպանվող",hailstorm,null
+2017-09-24,40.40097176,44.54369658,null,Արագյուղ չպաշտպանվող,hailstorm,null
+2017-09-25,40.42452872,44.58022451,null,Թեղենիք չպաշտպանվող,hailstorm,null
+2017-09-26,40.40899182,44.58046038,null,Քարաշամբ չպաշտպանվող,hailstorm,null
+2017-09-27,40.39341094,44.61202256,null,Կարենիս չպաշտպանվող,hailstorm,null
+2017-09-28,40.36975619,44.59569865,null,Արգել պաշտպանվող,hailstorm,null
+2017-09-29,40.37055551,44.5964855,null,Արգել չպաշտպանվող-գյուղապետ- Հովակիմյան,hailstorm,null
+2017-09-30,40.34522356,44.60190439,null,Նուռնուս չպաշտպանվող,hailstorm,null
+2017-10-01,40.45297266,44.64809437,null,Բջնի չպաշտպանվող,hailstorm,null
+2017-10-02,40.44997267,44.60112936,null,Արզական չպաշտպանվող,hailstorm,null
+2017-09-09,40.45249476,44.52209333,null,Բուժական չպաշտպանվող,hailstorm,null
+2017-06-06,40.45552191,44.37515179,null,Արայի չպաշտպանվող,hailstorm,null
+2017-06-07,40.4721819,44.3644083,null,Վարդենուտ չպաշտպանվող,hailstorm,null
+2017-06-08,40.48838561,44.35446281,null,Արագած չպաշտպանվող,hailstorm,null
+2017-06-09,40.50345133,44.35342848,null,Ծաղկաշեն չպաշտպանվող,hailstorm,null
+2017-06-10,40.53278054,44.46345187,null,Եղիպատրուշ չպաշտպանվող,hailstorm,null
+2017-06-11,40.5922068,44.3574379,null,"Ք. Ապարան
+չպաշտպանվող",hailstorm,null
+2017-06-12,40.56790591,44.81573464,null,Դդմաշեն չպաշտպանվող,hailstorm,null
+2017-06-13,40.54476495,44.757806,null,Ջրառատ չպաշտպանվող,hailstorm,null
+2017-06-14,41.11059938,45.05338262,null,Բաղանիս չպաշտպանվող,hailstorm,null
+2017-06-15,41.13061296,45.01070775,null,Ջուջևան չպաշտպանվող,hailstorm,null
+2017-06-16,41.11000693,44.8507752,null,Թեղուտ չպաշտպանվող,hailstorm,null
+2017-06-17,41.16612376,44.82125981,null,Մեծ Այրում պաշտպանվող,hailstorm,null
+2017-06-18,41.22682753,44.8610667,null,Պտղավան պաշտպանվող,hailstorm,null
+2017-06-19,41.23940412,44.82376599,null,Բագրատաշեն պաշտպանվող,hailstorm,null
+2017-06-20,41.23963715,44.82376599,null,Բագրատաշեն պաշտպանվող,hailstorm,null
+2017-06-21,41.24013604,44.8236088,null,Բագրատաշեն պաշտպանվող,hailstorm,null
+2017-06-22,41.17648957,44.83458226,null,Ճոճկան պաշտպանվող,hailstorm,null
+2017-06-23,41.07479508,44.74976375,null,Ծաղկաշատ չպաշտպանվող,hailstorm,null
+2017-06-24,41.07486444,44.74972,null,Ծաղկաշատ չպաշտպանվող,hailstorm,null
+2017-06-25,40.9730988,44.68840907,null,Քարինջ չպաշտպանվող,hailstorm,null
+2017-06-26,40.9718731,44.6281169,null,Ծաթեր պաշտպանվող,hailstorm,null
+2017-06-27,41.12271448,44.34936884,null,Մեդովկա պաշտպանվող,hailstorm,null
+2017-06-28,40.83772318,44.42332036,null,Դարպաս չպաշտպանվող,hailstorm,null
+2017-06-29,40.9601296,44.6494609,null,Դսեղ չպաշտպանվող,hailstorm,null
+2017-06-30,40.95484276,44.7079173,null,Մարց չպաշտպանվող,hailstorm,null
+2017-07-01,40.88354254,44.58892234,null,Վահագնաձոր չպաշտպանվող,hailstorm,null
+2017-07-02,40.80739899,44.4970268,null,Ք. Վանաձոր չպաշտպանվող,hailstorm,null
+2017-07-03,40.80613919,44.49737719,null,Վանաձոր չպաշտպանվող,hailstorm,null
+2017-07-04,40.82620136,44.33815503,null,Ղուրսալի չպաշտպանվող,hailstorm,null
+2017-07-05,40.82970999,44.27987587,null,Սպիտակ չպաշտպանվող,hailstorm,null
+2017-07-06,40.7946632,44.27828269,null,Լեռնանցք չպաշտպանվող,hailstorm,null
+2017-07-07,40.77234144,44.22234711,null,Սարամեջ չպաշտպանվող,hailstorm,null
+2017-07-08,40.851886,44.27427884,null,Արևաշող չպաշտպանվող,hailstorm,null
+2017-07-09,40.85676113,43.75480054,null,Վահրամաբերդ պաշտպանվող,hailstorm,null
+2017-05-09,40.91844331,43.71674805,null,Գտաշեն չպաշտպանվող,hailstorm,null
+2017-05-10,40.92864535,43.74906225,null,Արեգնադեմ չպաշտպանվող,hailstorm,null
+2017-05-11,40.94606155,43.78016856,null,Ամասիա չպաշտպանվող,hailstorm,null
+2017-05-12,40.91536946,43.90163194,null,Արփենի չպաշտպանվող,hailstorm,null
+2017-05-13,40.89277296,43.87844444,null,Փոքրաշեն չպաշտպանվող,hailstorm,null
+2017-05-14,40.7211431,43.83267969,null,Ազատան պաշտպանվող,hailstorm,null
+2017-05-15,40.72096393,43.83254115,null,Ազատան պաշտպանվող,hailstorm,null
+2017-05-16,40.82549105,43.7345475,null,Ողջի չպաշտպանվող,hailstorm,null
+2017-05-17,40.6532128,43.7500435,null,"Բայանդուր
+պաշտպանվող",hailstorm,null
+2017-05-18,40.6532128,43.7500435,null,"Շիրակավան
+պաշտպանվող",hailstorm,null
+2017-05-19,40.4630705,43.7291826,null,"Սուսեր
+չպաշտպանվող",hailstorm,null
+2017-05-20,40.47939051,43.78123645,null,"Զարինջա
+չպաշտպանվող",hailstorm,null
+2017-05-21,40.46616189,43.76322672,null,"Ցամաքասար
+չպաշտպանվող",hailstorm,null
+2017-05-22,40.5064964,43.8645873,null,"Լանջիկ
+չպաշտպանվող",hailstorm,null
+2017-05-23,40.5084874,43.8198561,null,"Ձիթհանքով
+չպաշտպանվող",hailstorm,null
+2017-05-24,40.5252864,43.9114285,null,"Սառնաղբյուր
+չպաշտպանվող",hailstorm,null
+2017-06-02,40.6524905,44.1086799,null,Գեղադիր չպաշտպանվող,hailstorm,null
+2017-06-03,40.3663514,44.060755,null,"Արևուտ
+չպաշտպանվող",hailstorm,null
+2017-06-04,40.33193703,44.0706944,null,Ագարակավան չպաշտպանվող,hailstorm,null
+2017-06-05,40.3507407,44.0519223,null,Կաքավաձոր չպաշտպանվող,hailstorm,null
+2017-06-06,40.35588556,44.0754165,null,Դիան չպաշտպանվող,hailstorm,null
+2017-06-07,40.30094465,44.28323761,null,Ագարակ (Թալին) չպաշտպանվող,hailstorm,null
+2017-06-08,40.3013289,44.2831938,null,"Ագարակ
+պաշտպանվող",hailstorm,null
+2017-06-09,40.31134531,44.2517551,null,"Աղձք
+պաշտպանվող",hailstorm,null
+2017-06-10,40.2955229,44.2100499,null,Ուջան պաշտպանվող,hailstorm,null
+2017-06-11,40.23140155,44.24776682,null,"Աղավնատուն
+չպաշտպանվող",hailstorm,null
+2017-06-12,40.23094999,44.2477669,null,Աղավնատուն պաշտպանվող,hailstorm,null
+2017-06-13,40.27797698,44.26788844,null,"Ոսկեհատ
+պաշտպանվող",hailstorm,null
+2017-06-14,40.28076164,44.29386251,null,"Ոսկեվազ
+պաշտպանվող",hailstorm,null
+2017-06-15,40.25841773,44.2629824,null,Լեռնամերձ պաշտպանվող,hailstorm,null
+2017-06-16,40.24178398,44.2710995,null,Ամբերդ պաշտպանվող,hailstorm,null
+2017-06-17,40.2213038,44.271441,null,Դողս չպաշտպանվող,hailstorm,null
+2017-06-18,40.20057822,44.27697944,null,Մրգաստան չպաշտպանվող,hailstorm,null
+2017-06-19,40.2134638,44.29765162,null,Շահումյանի թռչնաֆաբրիկա չպաշտպանվող,hailstorm,null
+2017-06-20,40.22525555,44.3000996,null,Դաշտ պաշտպանվող,hailstorm,null
+2017-06-21,40.21681489,44.2323456,null,Արագած պաշտպանվող,hailstorm,null
+2017-06-22,40.21709889,44.23234724,null,"Արագած
+չպաշտպանվող",hailstorm,null
+2017-06-23,40.27582977,44.1005848,null,Շամիրամ չպաշտպանվող,hailstorm,null
+2017-06-24,40.27565152,44.10070824,null,Շամիրամ չպաշտպանվող,hailstorm,null
+2017-06-25,40.2864761,44.0794576,null,Արուճ չպաշտպանվող,hailstorm,null
+2017-06-26,40.28605813,44.0794576,null,Արուճ չպաշտպանվող,hailstorm,null
+2017-06-27,40.28569873,44.07964288,null,Արուճ չպաշտպանվող,hailstorm,null
+2017-06-28,40.2395808,43.8714444,null,Լեռնագոգ պաշտպանվող,hailstorm,null
+2017-06-29,40.24015738,43.80937324,null,Քարակերտ պաշտպանվող,hailstorm,null
+2017-06-30,40.23989075,43.80963637,null,Քարակերտ պաշտպանվող,hailstorm,null
+2017-07-01,40.29092001,43.82696129,null,Լուսակն պաշտպանվող,hailstorm,null
+2017-07-02,40.3414898,43.826948,null,"Դդմասար
+չպաշտպանվող",hailstorm,null
+2017-07-03,40.3457903,43.8582555,null,"Դաշտադեմ
+չպաշտպանվող",hailstorm,null
+2017-07-04,40.2980046,43.765332,null,"Արտենի
+պաշտպանվող",hailstorm,null
+2017-07-05,40.2980046,43.765332,null,Արտենի պաշտպանվող,hailstorm,null
+2017-07-06,40.3836392,43.6187863,null,"Գետափ
+չպաշտպանվող",hailstorm,null
+2017-07-07,40.31934277,43.65991617,null,Արագածավան պաշտպանվող,hailstorm,null
+2017-07-08,40.3196601,43.6600476,null,"Արագածավան
+պաշտպանվող",hailstorm,null
+2017-07-09,40.27292736,43.7398671,null,Արգինա պաշտպանվող,hailstorm,null
+2017-07-10,40.27311145,43.73982648,null,Արգինա պաշտպանվող,hailstorm,null
+2017-07-11,40.27312999,43.73988761,null,Արգինա պաշտպամվող,hailstorm,null
+2017-07-12,40.07238409,44.05785409,null,Այգեշատ (Վաղարշապատ) պաշտպանվող,hailstorm,null
+2017-07-13,40.1099342,44.1821217,null,"Արտաշար
+չպաշտպանվող",hailstorm,null
+2017-24-09,40.10757588,44.67183825,null,Բանավան չպաշտպանվող,hailstorm,null
+2018-12-06,39.62854535,45.57196691,null,Գոմք չպաշտպանվող  ՀՀ ԱԻՆ 911,hailstorm,null
+2018-11-06,39.65701216,45.61364508,null,Արտավան չպաշտպանվող,hailstorm,null
+2018-21-05,39.68959615,45.46543356,null,ք.Վայք չպաշտպանվող,hailstorm,null
+2018-02-06,39.73714945,45.39260432,null,Մալիշկա   (911) չպաշտպանվող,hailstorm,null
+2018-11-06,39.73710508,45.39255942,null,Մալիշկա չպաշտպանվող,hailstorm,null
+2018-02-06,39.81545001,45.53039641,null,Կարմրաշեն չպաշտպանվող,hailstorm,null
+2018-11-06,39.77587065,45.22755732,null,Աղավնաձոր չպաշտպանվող,hailstorm,null
+2018-11-06,39.72263661,45.18587673,null,Արենի չպաշտպանվող,hailstorm,null
+2018-11-06,39.8027034,45.10913918,null,Ելփին չպաշտպանվող,hailstorm,null
+2018-11-07,39.79887007,44.77241865,null,Սուրենավան պաշտպանվող,hailstorm,null
+2018-11-08,39.76570155,44.80868415,null,Արմաշ պաշտպանվող,hailstorm,null
+2018-11-09,39.7381137,44.83485241,null,Երասխ պաշտպանվող,hailstorm,null
+2018-11-10,39.92125004,44.82361223,null,Ուրցաձոր չպաշտպանվող,hailstorm,null
+2018-11-11,39.87307793,44.95080831,null,Լանջանիստ չպաշտպանվող,hailstorm,null
+2018-11-12,39.85239971,44.97680298,null,Լուսաշող չպաշտպանվող,hailstorm,null
+2018-11-13,40.24193488,44.6769488,null,Արագած չպաշտպանվող,hailstorm,null
+2018-11-14,40.32431582,45.11000124,null,Գանձակ չպաշտպանվող,hailstorm,null
+2018-11-15,40.32208999,45.12938197,null,ք.Գավառ չպաշտպանվող,hailstorm,null
+2018-11-16,40.29269871,45.13605854,null,Սարուխան չպաշտպանվող,hailstorm,null
+2018-11-17,40.11740078,45.35372345,null,Աստղաձոր չպաշտպանվող,hailstorm,null
+2018-11-18,40.12235234,45.37524021,null,Զոլաքար չպաշտպանվող,hailstorm,null
+2018-11-19,41.20295996,44.99974972,null,Դեբեդավան չպաշտպանվող,hailstorm,null
+2018-11-20,41.17638821,44.90652447,null,Լճկաձոր չպաշտպանվող,hailstorm,null
+2018-11-21,41.22642151,44.86109672,null,Պտղավան պաշտպանվող,hailstorm,null
+2018-11-22,41.23992261,44.82363075,null,Բագրատաշեն չպաշտպանվող,hailstorm,null
+2018-11-23,41.23972519,44.82354323,null,Բագրատաշեն պաշտպանվող,hailstorm,null
+2018-11-24,41.00073796,44.65444579,null,ք.Թումանյան չպաշտպանվող,hailstorm,null
+2018-10-09,40.9595682,44.64957022,null,Դսեղ չպաշտպանվող,hailstorm,null
+2018-10-09,40.97039601,44.68662877,null,Քարինջ չպաշտպանվող,hailstorm,null
+2018-10-09,40.9473514,44.70759252,null,Մարց չպաշտպանվող,hailstorm,null
+2018-01-06,40.53256158,44.7693859,null,ք. Հրազդան չպաշտպանվող,hailstorm,null
+2018-01-06,40.53076428,44.71602193,null,ք. Ծաղկաձոր չպաշտպանվող,hailstorm,null
+2018-18-08,40.58714294,44.35701714,null,ք. Ապարան չպաշտպանվող,hailstorm,null
+2018-23-06,40.59121003,44.35748162,null,Ապարան չպաշտպանվող,hailstorm,null
+2018-04-05,40.66447362,44.35116175,null,Մելիք չպաշտպանվող,hailstorm,null
+2018-09-08,40.66473933,44.35116173,null,Մելիք գյուղ չպաշտպանվող,hailstorm,null
+2018-15-06,40.71834154,44.20501706,null,Ծիլքար չպաշտպանվող,hailstorm,null
+2018-15-06,40.70547237,44.21585743,null,Գեղարոտ չպաշտպանվող,hailstorm,null
+2018-10-09,40.96211611,44.57989892,null,Մղարթ պաշտպանվող,hailstorm,null
+2018-10-09,40.97160888,44.62812783,null,Ծաթեր պաշտպանվող,hailstorm,null
+2018-10-09,40.97248454,44.60944049,null,Արևածագ պաշտպանվող,hailstorm,null
+2018-10-09,41.01243813,44.62501487,null,Այգեհատ պաշտպանվող,hailstorm,null
+2018-10-09,41.01486172,44.5985128,null,Արդվի չպաշտպանվող,hailstorm,null
+2018-04-08,41.067097,44.39315471,null,ՈՒռուտ չպաշտպանվող,hailstorm,null
+2018-05-09,41.11491018,44.28573432,null,Տաշիր չպաշտպանվող,hailstorm,null
+2018-05-08,41.19517135,44.3807026,null,Սարչապետ չպաշտպանվող,hailstorm,null
+2018-05-08,41.20861173,44.36707377,null,Արծնի չպաշտպանվող,hailstorm,null
+2018-05-08,41.20282527,44.31601897,null,Գոգավան չպաշտպանվող,hailstorm,null
+2018-10-06,41.16465668,44.27964734,null,Միխայլովկա չպաշտպանվող,hailstorm,null
+2018-15-05,41.16424056,44.27971394,null,Միխայելովկա պաշտպանվող,hailstorm,null
+2018-05-09,41.20538564,44.23091635,null,Մեծավան չպաշտպանվող,hailstorm,null
+2018-12-06,40.88314669,43.94757684,null,Մեծ Սարիար չպաշտպանվող Շիրակի մարզպետարան,hailstorm,null
+2018-12-07,41.04689189,43.82325902,null,Մեծ Սեպասար չպաշտպանվող,hailstorm,null
+2018-12-08,41.11729554,43.80861005,null,Բավրա չպաշտպանվող,hailstorm,null
+2018-12-09,40.9474671,43.85850398,null,Ցողամարգ չպաշտպանվող,hailstorm,null
+2018-15-06,40.94401328,43.81202535,null,Շիրակ չպաշտպանվող,hailstorm,null
+2018-05-09,40.97008442,43.81271645,null,Հովտուն չպաշտպանվող,hailstorm,null
+2018-05-09,40.95669822,43.78396264,null,Ամասիա չպաշտպանվող,hailstorm,null
+2018-05-09,40.95889022,43.81031988,null,Բանդիվան չպաշտպանվող,hailstorm,null
+2018-07-06,40.90779381,43.83876137,null,ք. Գյումրի չպաշտպանվող,hailstorm,null
+2018-20-06,40.93050018,43.87490774,null,Թորոսգյուղ չպաշտպանվող,hailstorm,null
+2018-23-09,40.86373433,43.84435822,null,Քեթի չպաշտպանվող,hailstorm,null
+2018-12-06,40.84457276,43.87701861,null,Հացիկ պաշտպանվող Շիրակի մարզպետարան,hailstorm,null
+2018-15-06,40.84626157,43.8742271,null,Հացիկ պաշտպանվող,hailstorm,null
+2018-12-06,40.8448302,43.83468347,null,Մայիսյան պաշտպանվող - Շիրակի մարզպետարան,hailstorm,null
+2018-15-06,40.84410454,43.83449182,null,Մայիսյան պաշտպանվող,hailstorm,null
+2018-12-06,40.87060453,43.80211271,null,Հովունի չպաշտպանվող Շիրակի մարզպետարան,hailstorm,null
+2018-22-05,40.87050513,43.80220028,null,Հովունի չպաշտպանվող,hailstorm,null
+2018-22-05,40.85664742,43.75480522,null,Վաhրամաբերդ չպաշտպանվող,hailstorm,null
+2018-03-08,40.84890698,43.75344686,null,Վահրամաբերդ պաշտպանվող,hailstorm,null
+2018-20-06,40.93018528,43.75276519,null,Արեգնադեմ չպաշտպանվող,hailstorm,null
+2018-07-06,40.82496226,43.73452542,null,Ողջի չպաշտպանվող,hailstorm,null
+2018-12-08,40.81225994,43.7356787,null,Ողջի պաշտպանվող,hailstorm,null
+2018-12-06,40.83606114,43.77921893,null,Մարմարաշեն չպաշտպանվոող Շիրակի մարզպետարան,hailstorm,null
+2018-05-08,40.83601004,43.77918995,null,Մարմաշեն չպաշտպանվող,hailstorm,null
+2018-17-08,40.79512368,43.7549335,null,Հայկավան պաշտպանվող,hailstorm,null
+2018-05-08,40.80650807,43.73284244,null,Ողջի պաշտպանող,hailstorm,null
+2018-17-08,40.76521652,43.77329548,null,Ոսկեհասկ պաշտպանվող,hailstorm,null
+2018-15-06,40.72104538,43.83246093,null,Ազատան պաշտպանվող,hailstorm,null
+2018-08-08,40.71399049,43.84606807,null,Ազատան պաշտպանվող,hailstorm,null
+2018-17-08,40.78005301,43.89642946,null,Ախուրյան պաշտպանվող,hailstorm,null
+2018-15-06,40.77919147,43.90001747,null,Ախուրյան պաշտպանվող,hailstorm,null
+2018-12-06,40.7795229,43.89975484,null,Ախուրյան պաշտպանվող Շիրակի մարզպետարան,hailstorm,null
+2018-17-08,40.78305436,43.80456522,null,Առափի չպաշտպանվող,hailstorm,null
+2018-17-08,40.78975799,43.84592717,null,Գյումրի չպաշտպանվող,hailstorm,null
+2018-15-06,40.7886634,43.84737191,null,"ք,Գյումրի չպաշտպանվող",hailstorm,null
+2018-12-06,40.78813344,43.84667211,null,ք. Գյումրի չպաշտպանվող Շիրակի մարզպետարան,hailstorm,null
+2018-04-06,40.82538097,43.95159193,null,Կամո չպաշտպանվող,hailstorm,null
+2018-15-06,40.73888931,43.90612723,null,Արևիկ պաշտպանվող,hailstorm,null
+2018-15-06,40.74861439,43.9375257,null,Նոր Ախուրյան չպաշտպանվող,hailstorm,null
+2018-04-05,40.63674727,44.14060074,null,Հնաբերդ չպաշտպանվող,hailstorm,null
+2018-12-06,40.64238753,44.06116506,null,Մեծ Մանթաշ  պաշտպանվող Շիրակի մարզպետարան,hailstorm,null
+2018-12-06,40.6705477,44.03550291,null,Գեղանիստ պաշտպանվող Շիրակի մարզպետարան,hailstorm,null
+2018-12-06,40.64075351,44.04552542,null,Փոքր Մանթաշ չպաշտպանվող Շիրակի մարզպետարան,hailstorm,null
+2018-05-08,40.65538096,44.01871237,null,Սպանդարյան պաշտպանվող,hailstorm,null
+2018-12-06,40.65308983,43.97674177,null,Անուշավան չպաշտպանվող Շիրակի մարզպետարան,hailstorm,null
+2018-12-06,40.66081407,43.97128641,null,Փանիկ պաշտպանվող Շիրակի մարզպետարան,hailstorm,null
+2018-12-07,40.66151636,43.91854791,null,Վարդաքար չպաշտպանվող,hailstorm,null
+2018-12-08,40.6685438,43.95536799,null,Մեղրաշեն պաշտպանվող,hailstorm,null
+2018-12-09,40.65508221,43.92927094,null,Նոր Կյանք չպաշտպանվող,hailstorm,null
+2018-12-10,40.58579486,43.86763772,null,ք.Մարալիկ չպաշտպանվող,hailstorm,null
+2018-12-11,40.59216991,43.70441338,null,Աղին չպաշտպանվող,hailstorm,null
+2018-12-12,40.53155833,43.65883925,null,Հայկաձոր չպաշտպանվող,hailstorm,null
+2018-12-05,40.47422728,43.67605751,null,Բագրավան (Նորաշեն) չպաշտպանվող,hailstorm,null
+2018-12-06,40.38447558,43.69214213,null,Հակո չպաշտպանվող,hailstorm,null
+2018-12-07,40.38249194,43.72891381,null,Կանչ չպաշտպանվող,hailstorm,null
+2018-12-08,40.24366242,43.81903643,null,Քարակերտ պաշտպանվող,hailstorm,null
+2018-12-09,40.27311951,43.73988902,null,Արգինա պաշտպանվող,hailstorm,null
+2018-12-10,40.27311951,43.73988902,null,Արգինա պաշտպանվող,hailstorm,null
+2018-12-11,40.27286928,43.7399218,null,Արգինա պաշտպանվող,hailstorm,null
+2018-11-05,40.27288597,43.7398562,null,Արգինա պաշտպանվող ՀՀ ԱԻՆ 911,hailstorm,null
+2018-11-06,40.29763754,43.76535388,null,Արտենի պաշտպանվող,hailstorm,null
+2018-11-07,40.31966011,43.6600475,null,Արագածավան չպաշտպանվող,hailstorm,null
+2018-11-08,40.31912155,43.6600658,null,Արագածավան պաշտպանվող,hailstorm,null
+2018-11-09,40.31919316,43.66002564,null,Արագածավան պաշտպանվող,hailstorm,null
+2018-11-10,40.31139359,43.66111944,null,Արագածավան չպաշտպանվող,hailstorm,null
+2018-11-11,40.2098217,43.77596832,null,Շենիկ պաշտպանվող,hailstorm,null
+2018-11-12,40.21276185,43.77031637,null,Շենիկ պաշտպանվող,hailstorm,null
+2018-10-08,40.1376161,43.6607824,null,Բագարան պաշտպանվող,hailstorm,null
+2018-10-09,40.10267969,43.82298175,null,Վանանդ պաշտպանվող,hailstorm,null
+2018-10-10,40.0998333,43.88027411,null,Տալվորիկ պաշտպանվող,hailstorm,null
+2018-10-08,40.1225152,43.85889064,null,Արտամետ պաշտպանվող,hailstorm,null
+2018-10-09,40.18035167,43.91455809,null,Մյասնիկյան չպաշտպանվող,hailstorm,null
+2018-10-10,40.09291033,43.95086395,null,Արաքս (Վաղ) պաշտպանվող,hailstorm,null
+2018-10-11,40.04118869,43.90774913,null,Բերքաշատ պաշտպանվող,hailstorm,null
+2018-10-12,40.04007982,43.94427417,null,Գետաշեն պաշտպանվող,hailstorm,null
+2018-10-13,40.06064902,43.98556768,null,Նալբանդյան պաշտպանվող,hailstorm,null
+2018-10-14,40.10730288,44.02063036,null,Բամբակաշատ պաշտպանվող,hailstorm,null
+2018-10-08,40.12362597,44.06726197,null,Մրգաշատ պաշտպանվող,hailstorm,null
+2018-10-08,40.10397057,44.05193187,null,Ալաշկերտ պաշտպանվող,hailstorm,null
+2018-10-09,40.04096489,44.02740138,null,Ջանֆիդա պաշտպանվող,hailstorm,null
+2018-10-10,40.10024836,44.09372905,null,Արևիկ չպաշտպանվող,hailstorm,null
+2018-10-08,40.14113671,44.03037539,null,Նորապատ չպաշտպանվող,hailstorm,null
+2018-10-05,40.27574712,44.10060671,null,Շամիրամ չպաշտպանվող,hailstorm,null
+2018-10-05,40.28614229,44.07930445,null,Արուճ չպաշտպանվող,hailstorm,null
+2018-06-22,40.2704339,44.0405847,null,Պարտիզակ չպաշտպանվող,hailstorm,null
+2018-09-09,40.36430349,44.0202196,null,Վերին Բազմաբերդ չպաշտպանվող,hailstorm,null
+2018-09-10,40.35608015,43.99197482,null,Ներքին Սասնաշեն չպաշտպանվող,hailstorm,null
+2018-09-11,40.34740232,44.25252213,null,Օրգով չպաշտպանվող,hailstorm,null
+2018-09-12,40.35195058,44.26414905,null,Անտառուտ չպաշտպանվող,hailstorm,null
+2018-09-13,40.34568561,44.23533389,null,Տեղեր չպաշտպանվող,hailstorm,null
+2018-09-14,40.29933949,44.15246145,null,Կոշ չպաշտպանվող,hailstorm,null
+2018-09-15,40.25888748,44.17939649,null,Արագածոտն պաշտպանվող,hailstorm,null
+2018-09-16,40.25830943,44.26299334,null,Լեռնամերձ պաշտպանվող,hailstorm,null
+2018-09-17,40.27958229,44.29400562,null,Ոսկեվազ պաշտպանվող,hailstorm,null
+2018-09-18,40.2416088,44.27106669,null,Ամբերդ պաշտպանվող,hailstorm,null
+2018-09-19,40.2645625,44.30987398,null,Օշական պաշտանվող,hailstorm,null
+2018-09-20,40.32398241,44.38531155,null,Օհանավան պաշտպանվող,hailstorm,null
+2018-09-21,40.34329412,44.38493448,null,Օհանավան չպաշտպանվող Հովակիմյան,hailstorm,null
+2018-09-22,40.35059889,44.3714496,null,Ուշի չպաշտպանվող,hailstorm,null
+2018-09-23,40.34839567,44.38706676,null,Օհանավան պաշտպանվող,hailstorm,null
+2018-09-24,40.3402181,44.31920641,null,Ղազարավան պաշտպանվող,hailstorm,null
+2018-09-25,40.33668957,44.27219873,null,Բյուրական չպաշտպանվող,hailstorm,null
+2018-09-26,40.39320781,44.38137583,null,Արտաշավան պաշտպանվող,hailstorm,null
+2018-09-27,40.38540623,44.38134203,null,Արտաշավան պաշտպանվող,hailstorm,null
+2018-09-28,40.38208148,44.39455845,null,Սաղմոսավան չպաշտպանվող,hailstorm,null
+2018-09-29,40.42426702,44.58025287,null,Թեղենիք չպաշտպանվող,hailstorm,null
+2018-09-30,40.27032891,44.63327806,null,ք. Աբովյան չպաշտպանվող,hailstorm,null
+2018-10-01,40.24585357,44.53503136,null,Քանաքեռավան պաշտպանվող,hailstorm,null
+2018-10-02,40.23552563,44.45144143,null,Քասախ չպաշտպանվող,hailstorm,null
+2018-10-03,40.25027733,44.41987313,null,Պռոշյան չպաշտպանվող,hailstorm,null
+2018-10-04,40.17918573,44.49910273,null,Ք. Երևան Ս. Հովակիմյան,hailstorm,null
+2018-10-05,40.1762432,44.49927824,null,ք. Երևան Ս. Հովակիմյան,hailstorm,null
+2018-10-06,40.04395299,44.46904315,null,Մարմարաշեն չպաշտպանվող,hailstorm,null
+2018-10-07,40.11375046,44.46515705,null,Գեղանիստ պաշտպանվող,hailstorm,null
+2018-10-08,40.08856845,44.27003078,null,Լուսագյուղ չպաշտպանվող ՀՀ ԱԻՆ 911,hailstorm,null
+2018-10-09,40.1572187,44.37951255,null,Մուսալեռ չպաշտպանվող Համայնքի ղեկավար Էդգար Հովհաննիսյան,hailstorm,null
+2018-10-08,40.19325609,44.36851954,null,Բաղրամյան չպաշտպանվող,hailstorm,null
+2018-20-06,40.22066894,44.27141912,null,Դողս չպաշտպանվող,hailstorm,null
+2018-10-05,40.22080265,44.27137535,null,Դողս չպաշտպանվող ՀՀ ԱԻՆ 911,hailstorm,null
+2018-11-05,40.20052057,44.27703432,null,Մրգաստան չպաշտպանվող ՀՀ ԱԻՆ 911,hailstorm,null
+2018-11-06,40.1413164,44.32760069,null,Ոսկեհատ պաշտպանվող,hailstorm,null
+2018-11-07,40.23070003,44.24796385,null,Աղավնատուն պաշտպանվող,hailstorm,null
+2018-11-08,40.21646442,44.23232383,null,Արագած (Վաղարշապատ) պաշտպանվող,hailstorm,null
+2018-11-09,40.21649785,44.23236759,null,Արագած պաշտպանվող,hailstorm,null
+2018-10-05,40.0921457,44.25267571,null,Ապագա չպաշտպանվող ՀՀ ԱԻՆ 911,hailstorm,null
+2018-10-09,39.95233993,44.55191461,null,ք.Արտաշատ պաշտպանվող,hailstorm,null
+2018-10-09,39.97113439,44.53519442,null,Մրգավան չպաշտպանվող,hailstorm,null
