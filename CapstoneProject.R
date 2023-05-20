@@ -157,10 +157,20 @@ ui <- fluidPage(
                  verbatimTextOutput('summaryTimeSeries')
         ),
         tabPanel("Heatmap",
-                 leafletOutput("heatMapEarthquake", width = "70%", height = "500px"),
-                 hr(),
-                 h3("Summary for the Heatmap"),
-                 verbatimTextOutput('summaryHeatMap')
+                 div(
+                   class='heatmap-heading',
+                   h2("Heatmap Visualization By Event Type"),
+                   div(class = "slider-heatmap",
+                       sliderInput("year_filter", "Select Year Range", min = 2018, max = 2023, value = c(2018, 2023), step = 1, 
+                                   width = "100%", ticks = TRUE, animate = TRUE, sep = "", dragRange = TRUE, round = TRUE),
+                   ),
+                 ),
+                 tags$div(class='heatmap-grid', 
+                  leafletOutput("heatMapEarthquake", width = "100%", height = "350px"),
+                  leafletOutput("heatMapStorm", width = "100%", height = "350px"),
+                  leafletOutput("heatMapFire", width = "100%", height = "350px"),
+                  leafletOutput("heatMapHailstorm", width = "100%", height = "350px"),
+                 ),
         ),
       ),
     ),
@@ -233,6 +243,25 @@ ui <- fluidPage(
       .input-group-addon {
         background: #00bc8c;
         color: white;
+      }
+      
+      .slider-heatmap {
+        width: 400px;
+        margin: 20px 100px;
+      }
+      
+      .heatmap-heading {
+        position: absolute;
+        display: flex;
+        top: 140px;
+      }
+      
+      .heatmap-grid {
+        display: grid;
+        grid-template-columns: 2fr 2fr;
+        grid-gap: 25px;
+        width: 95%;
+        margin: 200px auto;
       }
       
       .heatmap-title {
@@ -420,6 +449,7 @@ server <- function(input, output, session) {
         "Event date: ", event_dates[i], "<br>",
         "Hazard type: ", toTitleCase(hazard_types[i]), "<br>",
         "Place: ",  ifelse(places[i] == "null", "Place is not defined" , places[i]), "<br>",
+        ifelse(magnitudes[i] != "null", paste("Magnitude: ", magnitudes[i]),""),
         "Longitude: ", longitudes[i], "<br>",
         "Latitude: ", latitudes[i])
       
@@ -737,38 +767,68 @@ server <- function(input, output, session) {
     isolate(summary)
   })
   
-  # Heatmap for earthquakes by magnitude
+  # Heatmap for Earthquakes
   output$heatMapEarthquake <- renderLeaflet({
-    leaflet(filterEventsByType(data(), 'earthquake')) %>%
+    df <- data()
+    year <- substr(df$time, 1, 4)
+    df <- df %>% filter(year >= input$year_filter[1] & year <= input$year_filter[2])
+    
+    leaflet(filterEventsByType(df, 'earthquake')) %>%
       addControl(
-        tags$div(class = 'heatmap-title', paste("Earthquake magnitude intensity")), 
+        tags$div(class = 'heatmap-title', paste("Earthquake")),
         position = "topright"
       ) %>%
       addProviderTiles(providers$CartoDB.DarkMatter) %>%
       setView(mean(data()$longitude), lat = mean(data()$latitude), zoom = 7) %>%
-      addHeatmap(lng = ~longitude, lat = ~latitude, intensity = ~mag, blur = 10, max = 0.1, radius = 15) %>%
-      addLegend(
-        position = "bottomright",
-        title = "Magnitude Intensity",
-        colors = c("blue", "#008000", "#FFFF00", "#FFA500", "#FF0000"),
-        labels = c("Low", "Medium Low", "Medium", "High", "Very High"),
-        opacity = 1
-      )
+      addHeatmap(lng = ~longitude, lat = ~latitude, blur = 10, max = 0.1, radius = 15) 
   })
   
-  # Summary for Earthquakes' Heatmap
-  output$summaryHeatMap <- renderText({
-    df <- filterEventsByType(data(), 'earthquake')
-    min <- min(df$mag)
-    max <- max(df$mag)
+  # Heatmap for Storms
+  output$heatMapStorm <- renderLeaflet({
+    df <- data()
+    year <- substr(df$time, 1, 4)
+    df <- df %>% filter(year >= input$year_filter[1] & year <= input$year_filter[2]) 
     
-    min_location <- paste("(", df$latitude[df$mag == min], ",", df$longitude[df$mag == min], ")")
-    max_location <- paste("(", df$latitude[df$mag == max], ",", df$longitude[df$mag == max], ")")
-
-    summary <- paste("The magnitude range represented in the heatmap is ", min, " to ", max, "\n",
-                    "The highest magnitude recorded was ", max, " on ", df$time[df$mag == max], " at location ", max_location, "\n",
-                    "The average magnitude was ", mean(as.numeric(df$mag)))
-    isolate(summary)
+    leaflet(filterEventsByType(df, 'storm')) %>%
+      addControl(
+        tags$div(class = 'heatmap-title', paste("Storm")),
+        position = "topright"
+      ) %>%
+      addProviderTiles(providers$CartoDB.DarkMatter) %>%
+      setView(mean(data()$longitude), lat = mean(data()$latitude), zoom = 7) %>%
+      addHeatmap(lng = ~longitude, lat = ~latitude, blur = 10, max = 0.1, radius = 15) 
+  })
+  
+  # Heatmap for Fires
+  output$heatMapFire <- renderLeaflet({
+    df <- data()
+    year <- substr(df$time, 1, 4)
+    df <- df %>% filter(year >= input$year_filter[1] & year <= input$year_filter[2]) 
+    
+    leaflet(filterEventsByType(df, 'fire')) %>%
+      addControl(
+        tags$div(class = 'heatmap-title', paste("Fire")),
+        position = "topright"
+      ) %>%
+      addProviderTiles(providers$CartoDB.DarkMatter) %>%
+      setView(mean(data()$longitude), lat = mean(data()$latitude), zoom = 7) %>%
+      addHeatmap(lng = ~longitude, lat = ~latitude, blur = 10, max = 0.1, radius = 15)
+  })
+  
+  # Heatmap for Hailstorms
+  output$heatMapHailstorm <- renderLeaflet({
+    df <- data()
+    year <- substr(df$time, 1, 4)
+    df <- df %>% filter(year >= input$year_filter[1] & year <= input$year_filter[2]) 
+    
+    leaflet(filterEventsByType(df, 'hailstorm')) %>%
+      addControl(
+        tags$div(class = 'heatmap-title', paste("Hailstorm")),
+        position = "topright"
+      ) %>%
+      addProviderTiles(providers$CartoDB.DarkMatter) %>%
+      setView(mean(data()$longitude), lat = mean(data()$latitude), zoom = 7) %>%
+      addHeatmap(lng = ~longitude, lat = ~latitude, blur = 10, max = 0.1, radius = 15)
   })
 }
 
